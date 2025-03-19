@@ -161,8 +161,8 @@ function renderApps() {
                 <p class="app-description">${app.description || 'No description available.'}</p>
                 <div class="app-categories">
                     ${app.categories ? app.categories.map(cat => `<span class="app-category">${cat}</span>`).join('') : ''}
-                </div>
-                <a href="${app.link || '#'}" class="app-link">View App</a>
+                </div>                
+                <a href="${app.link || '#'}" class="app-link" target="_blank" rel="noopener noreferrer">View App</a>
             </div>
         `;
         
