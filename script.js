@@ -279,3 +279,30 @@ searchInput.addEventListener('input', filterApps);
 
 // Initialize app
 document.addEventListener('DOMContentLoaded', fetchApps);
+
+
+// Add this to the beginning of your script.js file
+// Theme toggle functionality
+function initThemeToggle() {
+    const themeToggle = document.getElementById('theme-toggle');
+    const storedTheme = localStorage.getItem('theme');
+    
+    // Apply stored theme on page load
+    if (storedTheme === 'light') {
+        document.body.classList.add('light-mode');
+    }
+    
+    themeToggle.addEventListener('click', () => {
+        document.body.classList.toggle('light-mode');
+        
+        // Store the theme preference
+        const currentTheme = document.body.classList.contains('light-mode') ? 'light' : 'dark';
+        localStorage.setItem('theme', currentTheme);
+    });
+}
+
+// Add this to your DOMContentLoaded event
+document.addEventListener('DOMContentLoaded', () => {
+    fetchApps();
+    initThemeToggle();  // Add this line
+});

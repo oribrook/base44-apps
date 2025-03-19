@@ -1,71 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Base44 Apps Gallery</title>
-    <meta name="theme-color" content="#0f172a">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <div class="header-content">
-                <div class="header-top">
-                    <h1>Base44 <span class="accent">Apps</span> Gallery</h1>
-                    <a href="https://www.facebook.com/groups/1684554685829832" class="fb-link" target="_blank">
-                        <i class="fab fa-facebook-f"></i>
-                        <span>Join our community</span>
-                    </a>
-                </div>
-                <div class="search-container">
-                    <input type="text" id="search-input" placeholder="Search apps...">
-                    <i class="fas fa-search search-icon"></i>
-                </div>
+      <header>
+        <div class="header-content">
+          <!-- Add this to the header-top div, right after the fb-link -->
+          <div class="header-top">
+            <h1>Base44 <span class="accent">Apps</span> Gallery</h1>
+            <div class="header-actions">
+              <button id="theme-toggle" class="theme-toggle">
+                <i class="fas fa-moon dark-icon"></i>
+                <i class="fas fa-sun light-icon"></i>
+              </button>
+              <a
+                href="https://www.facebook.com/groups/1684554685829832"
+                class="fb-link"
+                target="_blank"
+              >
+                <i class="fab fa-facebook-f"></i>
+                <span>Join our community</span>
+              </a>
             </div>
-        </header>
-
-        <section class="filter-section">
-            <div class="filter-header">
-                <h2>Filter by Category</h2>
-                <div class="selected-categories" id="selected-categories">
-                    <!-- Selected categories will appear here -->
-                </div>
-            </div>
-            <div class="filter-select-container">
-                <select id="category-filter">
-                    <option value="">Select categories...</option>
-                    <!-- Categories will be added here dynamically -->
-                </select>
-            </div>
-        </section>
-
-        <section class="apps-grid" id="apps-grid">
-            <!-- Apps will be displayed here -->
-            <div class="loading">
-                <div class="spinner"></div>
-                <p>Loading amazing apps...</p>
-            </div>
-        </section>
-
-        <div class="pagination" id="pagination">
-            <!-- Pagination will be added here -->
+          </div>
+          <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search apps..." />
+            <i class="fas fa-search search-icon"></i>
+          </div>
         </div>
+      </header>
+
+      <section class="filter-section">
+        <div class="filter-header">
+          <h2>Filter by Category</h2>
+          <div class="selected-categories" id="selected-categories">
+            <!-- Selected categories will appear here -->
+          </div>
+        </div>
+        <div class="filter-select-container">
+          <select id="category-filter">
+            <option value="">Select categories...</option>
+            <!-- Categories will be added here dynamically -->
+          </select>
+        </div>
+      </section>
+
+      <section class="apps-grid" id="apps-grid">
+        <!-- Apps will be displayed here -->
+        <div class="loading">
+          <div class="spinner"></div>
+          <p>Loading amazing apps...</p>
+        </div>
+      </section>
+
+      <div class="pagination" id="pagination">
+        <!-- Pagination will be added here -->
+      </div>
     </div>
 
     <footer>
-        <div class="footer-content">
-            <p>&copy; 2025 Base44 Apps Gallery. Created by Ori Brook.  </p>
-            <p>Have a question? want to list your app? <br/>i'm here: brook.ori@gmail.com </p>
-            <a href="https://www.facebook.com/groups/1684554685829832" class="fb-link-footer" target="_blank">                
-                <i class="fab fa-facebook-f"></i>
-                <span>Join our Facebook Community</span>
-            </a>
-        </div>
+      <div class="footer-content">
+        <p>&copy; 2025 Base44 Apps Gallery. Created by Ori Brook.</p>
+        <p>
+          Have a question? want to list your app? <br />i'm here:
+          brook.ori@gmail.com
+        </p>
+        <a
+          href="https://www.facebook.com/groups/1684554685829832"
+          class="fb-link-footer"
+          target="_blank"
+        >
+          <i class="fab fa-facebook-f"></i>
+          <span>Join our Facebook Community</span>
+        </a>
+      </div>
     </footer>
 
     <script src="script.js"></script>
-</body>
+  </body>
 </html>
