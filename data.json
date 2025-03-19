@@ -2,7 +2,7 @@
     {
         "title": "Mizmor LeBina",
         "description": "An engaging platform connecting users to the teachings of Moshe Rabbeinu through music, technology, and social media. Explore videos, stay connected, and reach out easily.",
-        "link": "/apps/mizmor-le-bina-f7544614",
+        "link": "https://app.base44.com/apps/mizmor-le-bina-f7544614",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/63b1ab_logo.png",
         "categories": [
             "music",
@@ -15,7 +15,7 @@
     {
         "title": "\u05e8\u05e5 \u05e4\u05e8\u05d5\u05d9\u05e7\u05d8\u05d9\u05dd",
         "description": "\u05d0\u05ea\u05e8 \u05de\u05e7\u05e6\u05d5\u05e2\u05d9 \u05e9\u05de\u05e1\u05e4\u05e7 \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05ea\u05d9\u05e7\u05d5\u05df \u05d5\u05d4\u05ea\u05e7\u05e0\u05d4 \u05dc\u05d3\u05d5\u05d3\u05d9 \u05e9\u05de\u05e9, \u05d0\u05d9\u05e0\u05e1\u05d8\u05dc\u05e6\u05d9\u05d4 \u05d5\u05ea\u05e9\u05ea\u05d9\u05d5\u05ea \u05d7\u05e9\u05de\u05dc, \u05e2\u05dd \u05d4\u05ea\u05de\u05e7\u05d3\u05d5\u05ea \u05d1\u05e9\u05d9\u05e8\u05d5\u05ea \u05d0\u05d9\u05db\u05d5\u05ea\u05d9 \u05d5\u05d0\u05de\u05d9\u05df \u05d1\u05d0\u05e9\u05e7\u05dc\u05d5\u05df \u05d5\u05d1\u05e1\u05d1\u05d9\u05d1\u05d4.",
-        "link": "/apps/-8a87522a",
+        "link": "https://app.base44.com/apps/-8a87522a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d22252_logo.png",
         "categories": [
             "business apps",
@@ -28,7 +28,7 @@
     {
         "title": "SecureVote NG",
         "description": "SecureVote NG is a robust online voting platform designed for transparency, security, and ease of use in Nigerian elections. With features like role-based access, real-time monitoring, and secure voting technologies, it ensures integrity and accessibility for voters, supervisors, and administrators alike.",
-        "link": "/apps/secure-vote-ng-df5ba691",
+        "link": "https://app.base44.com/apps/secure-vote-ng-df5ba691",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a1c99b_logo.png",
         "categories": [
             "productivity",
@@ -41,7 +41,7 @@
     {
         "title": "\u05db\u05e8\u05d8\u05d9\u05e1\u05d9 \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9\u05d9\u05dd",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d4\u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05d9\u05e6\u05d5\u05e8, \u05dc\u05e0\u05d4\u05dc \u05d5\u05dc\u05e9\u05ea\u05e3 \u05db\u05e8\u05d8\u05d9\u05e1\u05d9 \u05d1\u05d9\u05e7\u05d5\u05e8 \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9\u05d9\u05dd \u05d1\u05e7\u05dc\u05d5\u05ea, \u05db\u05d5\u05dc\u05dc \u05d1\u05d9\u05e7\u05d5\u05e8\u05d5\u05ea \u05d5\u05d3\u05e8\u05d5\u05d2\u05d9\u05dd \u05e2\u05dc \u05e2\u05e1\u05e7\u05d9\u05dd.",
-        "link": "/apps/-df5ba091",
+        "link": "https://app.base44.com/apps/-df5ba091",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e47e24_logo.png",
         "categories": [
             "business apps",
@@ -54,7 +54,7 @@
     {
         "title": "Word Analyzer",
         "description": "A powerful tool to analyze bolded words from text, providing definitions, pronunciations, examples, and synonyms to enhance your vocabulary and writing.",
-        "link": "/apps/word-analyzer-df5b9993",
+        "link": "https://app.base44.com/apps/word-analyzer-df5b9993",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/576854_logo.png",
         "categories": [
             "education",
@@ -67,7 +67,7 @@
     {
         "title": "AstroVeda",
         "description": "Explore the depths of Vedic astrology with detailed birth chart analyses, planetary positions, and personalized interpretations to understand your cosmic influences and enhance your spiritual journey.",
-        "link": "/apps/astro-veda-da81cc78",
+        "link": "https://app.base44.com/apps/astro-veda-da81cc78",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b84bba_logo.png",
         "categories": [
             "education",
@@ -80,7 +80,7 @@
     {
         "title": "\u05d7\u05d9\u05d9 \u05d6\u05d9\u05db\u05e8\u05d5\u05df",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05d9\u05d9\u05d7\u05d5\u05d3\u05d9\u05ea \u05dc\u05d4\u05e0\u05e6\u05d7\u05d4 \u05d3\u05d9\u05d2\u05d9\u05d8\u05dc\u05d9\u05ea \u05e9\u05dc \u05d9\u05e7\u05d9\u05e8\u05d9\u05e0\u05d5, \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05d4\u05e2\u05dc\u05d0\u05ea \u05d6\u05db\u05e8\u05d5\u05e0\u05d5\u05ea, \u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d5\u05e1\u05e8\u05d8\u05d5\u05e0\u05d9\u05dd \u05d1\u05de\u05d8\u05e8\u05d4 \u05dc\u05e9\u05de\u05e8 \u05d0\u05ea \u05d6\u05db\u05e8\u05dd \u05d5\u05dc\u05e2\u05d5\u05d3\u05d3 \u05e9\u05d9\u05ea\u05d5\u05e3 \u05d5\u05e9\u05d9\u05d7\u05d4 \u05d1\u05e7\u05e8\u05d1 \u05d4\u05e7\u05e8\u05d5\u05d1\u05d9\u05dd.",
-        "link": "/apps/-6c37b0a1",
+        "link": "https://app.base44.com/apps/-6c37b0a1",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/853892_logo.png",
         "categories": [
             "social media",
@@ -93,7 +93,7 @@
     {
         "title": "Document Manager (Copy)",
         "description": "An intuitive application for entering and managing construction and engineering documents, allowing users to easily track updates, revisions, and submissions.",
-        "link": "/apps/document-manager-copy-37ed8b6d",
+        "link": "https://app.base44.com/apps/document-manager-copy-37ed8b6d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/9de006_LWScreenShot2024-07-17at14122PM4.png",
         "categories": [
             "productivity",
@@ -106,7 +106,7 @@
     {
         "title": "Tic Tac Toe Challenge",
         "description": "A fun and interactive Tic Tac Toe game for players to challenge each other in a classic format.",
-        "link": "/apps/tic-tac-toe-challenge-88805505",
+        "link": "https://app.base44.com/apps/tic-tac-toe-challenge-88805505",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2bcda2_logo.png",
         "categories": [
             "gaming",
@@ -118,7 +118,7 @@
     {
         "title": "Markdown Master",
         "description": "A user-friendly markdown editor that allows you to create, edit, and preview documents effortlessly, with built-in formatting tools and document management.",
-        "link": "/apps/markdown-master-85a40c58",
+        "link": "https://app.base44.com/apps/markdown-master-85a40c58",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4d39fa_logo.png",
         "categories": [
             "productivity",
@@ -131,7 +131,7 @@
     {
         "title": "TargetAR",
         "description": "An interactive app that utilizes your device&#x27;s camera to add targets and overlays in real-time, enhancing your environment with engaging visual elements.",
-        "link": "/apps/target-ar-85a40c43",
+        "link": "https://app.base44.com/apps/target-ar-85a40c43",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b45ddf_logo.png",
         "categories": [
             "entertainment",
@@ -144,7 +144,7 @@
     {
         "title": "FartTap",
         "description": "A fun app that creates laughter with a fart sound whenever you click the screen! Tap away for a giggle!",
-        "link": "/apps/fart-tap-85a40c29",
+        "link": "https://app.base44.com/apps/fart-tap-85a40c29",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/85be61_logo.png",
         "categories": [
             "entertainment",
@@ -157,7 +157,7 @@
     {
         "title": "Shooting Critters",
         "description": "A fun and engaging shooting game where you aim and shoot adorable critters to score points and compete for high scores!",
-        "link": "/apps/shooting-critters-85a40bb3",
+        "link": "https://app.base44.com/apps/shooting-critters-85a40bb3",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ba205d_logo.png",
         "categories": [
             "gaming",
@@ -169,7 +169,7 @@
     {
         "title": "TaskMaster",
         "description": "TaskMaster is a user-friendly to-do list app that helps you manage your tasks efficiently. Create, update, prioritize, and track your tasks in a beautiful interface.",
-        "link": "/apps/task-master-fd2bfbf1",
+        "link": "https://app.base44.com/apps/task-master-fd2bfbf1",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f394cd_logo.png",
         "categories": [
             "productivity",
@@ -182,7 +182,7 @@
     {
         "title": "Gym Progress Tracker",
         "description": "The Gym Progress Tracker app helps you effortlessly monitor your strength training workouts, log exercises, and visualize your progress through insightful charts and statistics. Stay motivated and reach your fitness goals with personalized tracking features and a user-friendly interface.",
-        "link": "/apps/gym-progress-tracker-1c3d5dba",
+        "link": "https://app.base44.com/apps/gym-progress-tracker-1c3d5dba",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d5c635_logo.png",
         "categories": [
             "health",
@@ -195,7 +195,7 @@
     {
         "title": "Paint Dispense Control",
         "description": "An intuitive app for controlling and managing paint dispensing machines, allowing users to select colors, set dispensing amounts, and track recent paint dispenses efficiently.",
-        "link": "/apps/paint-dispense-control-1c3d5d4a",
+        "link": "https://app.base44.com/apps/paint-dispense-control-1c3d5d4a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a86672_logo.png",
         "categories": [
             "productivity",
@@ -208,7 +208,7 @@
     {
         "title": "Agent Insights",
         "description": "An intuitive dashboard that provides insights into agent and human conversation response times, helping you analyze and improve interaction efficiency.",
-        "link": "/apps/agent-insights-1c3d5d36",
+        "link": "https://app.base44.com/apps/agent-insights-1c3d5d36",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/69ead7_logo.png",
         "categories": [
             "productivity",
@@ -221,7 +221,7 @@
     {
         "title": "SurveyMaster",
         "description": "An intuitive app for real estate agents to create and manage digital surveys, gather client feedback, and analyze results seamlessly.",
-        "link": "/apps/survey-master-1c3d5c27",
+        "link": "https://app.base44.com/apps/survey-master-1c3d5c27",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bd422b_logo.png",
         "categories": [
             "productivity",
@@ -234,7 +234,7 @@
     {
         "title": "Invoice Scanner",
         "description": "A convenient app that allows users to scan or upload invoices and automatically extract crucial details, helping manage expenses seamlessly.",
-        "link": "/apps/invoice-scanner-1c3d5b90",
+        "link": "https://app.base44.com/apps/invoice-scanner-1c3d5b90",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/31ef6e_logo.png",
         "categories": [
             "productivity",
@@ -247,7 +247,7 @@
     {
         "title": "AutoFormatter",
         "description": "An intuitive app that automatically formats your phone number as you type, ensuring it&#x27;s always correctly displayed for easy dialing.",
-        "link": "/apps/auto-formatter-1c3d5b80",
+        "link": "https://app.base44.com/apps/auto-formatter-1c3d5b80",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e6d751_logo.png",
         "categories": [
             "productivity",
@@ -260,7 +260,7 @@
     {
         "title": "Rugby Club Seeding Tracker",
         "description": "An app to track and manage seeding information for rugby clubs, providing insights into club performance, standings, and statistics.",
-        "link": "/apps/rugby-club-seeding-tracker-1c3d5b5c",
+        "link": "https://app.base44.com/apps/rugby-club-seeding-tracker-1c3d5b5c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b50281_logo.png",
         "categories": [
             "sports",
@@ -273,7 +273,7 @@
     {
         "title": "NBA Fantasy Streamer",
         "description": "Find the best NBA players to stream for tonight&#x27;s fantasy games based on matchups, stats, and injury statuses.",
-        "link": "/apps/nba-fantasy-streamer-1c3d599d",
+        "link": "https://app.base44.com/apps/nba-fantasy-streamer-1c3d599d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4a036e_logo.png",
         "categories": [
             "sports",
@@ -286,7 +286,7 @@
     {
         "title": "PropTrack",
         "description": "PropTrack is a comprehensive CRM for real estate agents to manage property listings, client interactions and streamline their workflow with features like property images, automatic reminders, commission tracking, and geolocation mapping.",
-        "link": "/apps/prop-track-1c3d5984",
+        "link": "https://app.base44.com/apps/prop-track-1c3d5984",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3240da_logo.png",
         "categories": [
             "business apps",
@@ -299,7 +299,7 @@
     {
         "title": "UpgradeManager",
         "description": "A web app designed to streamline and manage computer upgrade processes, allowing users to track operating system versions, upgrade priorities, and statuses for their devices.",
-        "link": "/apps/upgrade-manager-1c3d595e",
+        "link": "https://app.base44.com/apps/upgrade-manager-1c3d595e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0dc93d_logo.png",
         "categories": [
             "productivity",
@@ -312,7 +312,7 @@
     {
         "title": "RealEstatePro",
         "description": "A comprehensive CRM for real estate agents to manage property listings, track client interactions, and automate reminders for contract renewals and viewings.",
-        "link": "/apps/real-estate-pro-1c3d593e",
+        "link": "https://app.base44.com/apps/real-estate-pro-1c3d593e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1f5542_logo.png",
         "categories": [
             "productivity",
@@ -325,7 +325,7 @@
     {
         "title": "TogetherList",
         "description": "An intuitive app for managing shared shopping lists, enabling real-time collaboration for couples, families, and roommates.",
-        "link": "/apps/together-list-1c3d58fa",
+        "link": "https://app.base44.com/apps/together-list-1c3d58fa",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6d1af5_logo.png",
         "categories": [
             "productivity",
@@ -338,7 +338,7 @@
     {
         "title": "Vendor Analytics Dashboard",
         "description": "A comprehensive tool to manage and analyze sales and stock levels across various vendors, helping you make informed business decisions.",
-        "link": "/apps/vendor-analytics-dashboard-1c3d5895",
+        "link": "https://app.base44.com/apps/vendor-analytics-dashboard-1c3d5895",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3c9381_logo.png",
         "categories": [
             "business apps",
@@ -351,7 +351,7 @@
     {
         "title": "ChatGuru",
         "description": "A friendly AI chatbot that assists with your questions in a WhatsApp-style interface, delivering quick and informative responses right at your fingertips.",
-        "link": "/apps/chat-guru-1c3d5830",
+        "link": "https://app.base44.com/apps/chat-guru-1c3d5830",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6f7aba_logo.png",
         "categories": [
             "communication",
@@ -364,7 +364,7 @@
     {
         "title": "FitPro Manager",
         "description": "A comprehensive app for managing fitness clients, tracking payments, sending workout reminders, and providing accessible workout resources.",
-        "link": "/apps/fit-pro-manager-1c3d57c2",
+        "link": "https://app.base44.com/apps/fit-pro-manager-1c3d57c2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/619756_logo.png",
         "categories": [
             "health",
@@ -377,7 +377,7 @@
     {
         "title": "Bus Stop Finder",
         "description": "An app that helps you find the closest bus stops around you, providing details about bus lines, addresses, and distances for easy navigation.",
-        "link": "/apps/bus-stop-finder-9ff8ba06",
+        "link": "https://app.base44.com/apps/bus-stop-finder-9ff8ba06",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3c2a4d_logo.png",
         "categories": [
             "consumer apps",
@@ -390,7 +390,7 @@
     {
         "title": "RecipeBook",
         "description": "An intuitive app for managing your favorite recipes - create, share, and discover delicious dishes at your fingertips.",
-        "link": "/apps/recipe-book-9ff8b9c8",
+        "link": "https://app.base44.com/apps/recipe-book-9ff8b9c8",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3641fc_logo.png",
         "categories": [
             "consumer apps",
@@ -403,7 +403,7 @@
     {
         "title": "Earnings Insight Dashboard",
         "description": "An intuitive dashboard for drivers to visualize their earnings, track missed opportunities, and optimize their performance with real-time insights and interactive analytics.",
-        "link": "/apps/earnings-insight-dashboard-9ff8b99b",
+        "link": "https://app.base44.com/apps/earnings-insight-dashboard-9ff8b99b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6d21ee_logo.png",
         "categories": [
             "business apps",
@@ -416,7 +416,7 @@
     {
         "title": "PadelConnect",
         "description": "Find and connect with local padel coaches effortlessly. Discover, swipe, and message coaches in your area to enhance your game.",
-        "link": "/apps/padel-connect-9ff8b97b",
+        "link": "https://app.base44.com/apps/padel-connect-9ff8b97b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e74a00_logo.png",
         "categories": [
             "sports",
@@ -429,7 +429,7 @@
     {
         "title": "Black Rose FinTrack",
         "description": "FinTrack is a powerful app designed to help businesses manage their financial transactions, track income and expenses effortlessly, and stay on top of their financial health in real-time. With our intuitive interface and comprehensive features, you can easily categorize transactions, generate reports, and upload invoices, all while being fully compliant with local regulations.",
-        "link": "/apps/black-rose-fin-track-9ff8b956",
+        "link": "https://app.base44.com/apps/black-rose-fin-track-9ff8b956",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/428ea3_logo.png",
         "categories": [
             "finance",
@@ -442,7 +442,7 @@
     {
         "title": "PTZ Camera Control",
         "description": "An intuitive application for managing and controlling multiple PTZ cameras, enabling users to optimize surveillance and monitoring with preset positions and real-time controls.",
-        "link": "/apps/ptz-camera-control-9ff8b8e0",
+        "link": "https://app.base44.com/apps/ptz-camera-control-9ff8b8e0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/dc569e_logo.png",
         "categories": [
             "security",
@@ -455,7 +455,7 @@
     {
         "title": "RPM Life Planner",
         "description": "A comprehensive life management app based on Tony Robbins&#x27; RPM method, helping you define results, discover your purpose, and create actionable plans to achieve your goals.",
-        "link": "/apps/rpm-life-planner-9ff8b87a",
+        "link": "https://app.base44.com/apps/rpm-life-planner-9ff8b87a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/de4990_logo.png",
         "categories": [
             "productivity",
@@ -468,7 +468,7 @@
     {
         "title": "Karaoke Haven",
         "description": "Discover and sing along to your favorite karaoke songs! Find, favorite, and enjoy karaoke tracks with ease, all while exploring various genres, difficulties, and languages.",
-        "link": "/apps/karaoke-haven-9ff8b81f",
+        "link": "https://app.base44.com/apps/karaoke-haven-9ff8b81f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d4d7ec_logo.png",
         "categories": [
             "entertainment",
@@ -481,7 +481,7 @@
     {
         "title": "Financial Coach Pro",
         "description": "An intuitive app for financial coaches to manage clients, track meetings, and analyze performance statistics effectively.",
-        "link": "/apps/financial-coach-pro-9ff8b436",
+        "link": "https://app.base44.com/apps/financial-coach-pro-9ff8b436",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6ad2ff_logo.png",
         "categories": [
             "finance",
@@ -494,7 +494,7 @@
     {
         "title": "Tic Tac Toe Duo",
         "description": "A fun and interactive multiplayer Tic Tac Toe game where friends can challenge each other in real-time.",
-        "link": "/apps/tic-tac-toe-duo-9ff8b3e2",
+        "link": "https://app.base44.com/apps/tic-tac-toe-duo-9ff8b3e2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f40eba_logo.png",
         "categories": [
             "gaming",
@@ -507,7 +507,7 @@
     {
         "title": "Memory Match",
         "description": "An engaging memory card game where players match pairs of cards while tracking scores, moves, and time taken. Perfect for enhancing memory and concentration skills!",
-        "link": "/apps/memory-match-9ff8b3d6",
+        "link": "https://app.base44.com/apps/memory-match-9ff8b3d6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4feb7a_logo.png",
         "categories": [
             "gaming",
@@ -520,7 +520,7 @@
     {
         "title": "IndexMaster",
         "description": "An intuitive app for creating and managing professional indexes for your InDesign documents, streamlining the indexing process with ease and efficiency.",
-        "link": "/apps/index-master-9ff8b2f7",
+        "link": "https://app.base44.com/apps/index-master-9ff8b2f7",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/670f79_logo.png",
         "categories": [
             "productivity",
@@ -533,7 +533,7 @@
     {
         "title": "Coach Connect CRM",
         "description": "A comprehensive CRM for coaches to manage client relationships, appointment scheduling, billing follow-ups, and client satisfaction feedback effectively.",
-        "link": "/apps/coach-connect-crm-9ff8b2cc",
+        "link": "https://app.base44.com/apps/coach-connect-crm-9ff8b2cc",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f797b7_logo.png",
         "categories": [
             "productivity",
@@ -546,7 +546,7 @@
     {
         "title": "Social Media Insight",
         "description": "An AI-powered tool that provides deep insights into your social media performance, helping you optimize your strategy with key metrics, personalized recommendations, and actionable insights.",
-        "link": "/apps/social-media-insight-9ff8b2b4",
+        "link": "https://app.base44.com/apps/social-media-insight-9ff8b2b4",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/05cf84_logo.png",
         "categories": [
             "social media",
@@ -559,7 +559,7 @@
     {
         "title": "NutriMeal Planner",
         "description": "NutriMeal Planner is a smart meal planning app that generates personalized meal plans based on your caloric needs, macro percentages, and dietary preferences, ensuring a healthy and balanced diet with only whole foods.",
-        "link": "/apps/nutri-meal-planner-9ff8b0ec",
+        "link": "https://app.base44.com/apps/nutri-meal-planner-9ff8b0ec",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/48b770_.jpg",
         "categories": [
             "health",
@@ -572,7 +572,7 @@
     {
         "title": "Shopkeeper Adventures",
         "description": "A fun and engaging game where you manage your own shop, buy items from customers, and sell goods to earn money and grow your store!",
-        "link": "/apps/shopkeeper-adventures-9ff8b0af",
+        "link": "https://app.base44.com/apps/shopkeeper-adventures-9ff8b0af",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ee9248_logo.png",
         "categories": [
             "gaming",
@@ -585,7 +585,7 @@
     {
         "title": "Habit AI",
         "description": "Habit AI is an intelligent habits management platform that empowers you to achieve your personal and professional goals by tracking your progress, optimizing your tasks, and offering personalized insights to enhance your quality of life.",
-        "link": "/apps/habit-ai-9ff8b091",
+        "link": "https://app.base44.com/apps/habit-ai-9ff8b091",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e6c219_logo.png",
         "categories": [
             "productivity",
@@ -598,7 +598,7 @@
     {
         "title": "BudgetWise",
         "description": "BudgetWise is an intuitive budgeting app that helps users create, manage, and track their personal or household budgets with customizable categories and insightful analytics.",
-        "link": "/apps/budget-wise-9ff8afe7",
+        "link": "https://app.base44.com/apps/budget-wise-9ff8afe7",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/c24891_logo.png",
         "categories": [
             "finance",
@@ -611,7 +611,7 @@
     {
         "title": "Crypto Trading Assistant",
         "description": "A powerful tool to calculate entry and exit points for cryptocurrency trading, enabling users to determine ideal stop loss and trailing stop loss levels based on their trading positions.",
-        "link": "/apps/crypto-trading-assistant-9ff8afa0",
+        "link": "https://app.base44.com/apps/crypto-trading-assistant-9ff8afa0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fea7ff_logo.png",
         "categories": [
             "finance",
@@ -624,7 +624,7 @@
     {
         "title": "EasyWeb",
         "description": "A user-friendly website generator that allows you to create stunning websites effortlessly by choosing themes, adding titles, descriptions, and uploading images without any coding.",
-        "link": "/apps/easy-web-9ff8af6c",
+        "link": "https://app.base44.com/apps/easy-web-9ff8af6c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ee086d_logo.png",
         "categories": [
             "productivity",
@@ -637,7 +637,7 @@
     {
         "title": "Kartik&#x27;s Portfolio",
         "description": "A modern portfolio showcasing the achievements and current projects of Kartik, a tech entrepreneur and founder.",
-        "link": "/apps/kartiks-portfolio-9ff8ae9e",
+        "link": "https://app.base44.com/apps/kartiks-portfolio-9ff8ae9e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/85ee09_logo.png",
         "categories": [
             "business apps",
@@ -650,7 +650,7 @@
     {
         "title": "PropShare",
         "description": "A platform uniting investors to collaboratively buy real estate and manage their investment portfolios seamlessly.",
-        "link": "/apps/prop-share-9ff8ae10",
+        "link": "https://app.base44.com/apps/prop-share-9ff8ae10",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6d9993_logo.png",
         "categories": [
             "finance",
@@ -663,7 +663,7 @@
     {
         "title": "RecipeMaker",
         "description": "A simple and intuitive app for creating, managing, and sharing delicious recipes with ease.",
-        "link": "/apps/recipe-maker-9ff8adb2",
+        "link": "https://app.base44.com/apps/recipe-maker-9ff8adb2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e375b0_logo.png",
         "categories": [
             "productivity",
@@ -676,7 +676,7 @@
     {
         "title": "ProjectHub",
         "description": "A comprehensive project management platform that helps teams organize, track, and collaborate on their projects efficiently.",
-        "link": "/apps/project-hub-9ff8ada4",
+        "link": "https://app.base44.com/apps/project-hub-9ff8ada4",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/205fbc_logo.png",
         "categories": [
             "productivity",
@@ -689,7 +689,7 @@
     {
         "title": "AI Image Classifier",
         "description": "An intuitive app for managing image classes and uploading training images to enhance AI classification capabilities.",
-        "link": "/apps/ai-image-classifier-9ff8ad6b",
+        "link": "https://app.base44.com/apps/ai-image-classifier-9ff8ad6b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d456d8_logo.png",
         "categories": [
             "AI",
@@ -702,7 +702,7 @@
     {
         "title": "PhotoCRM",
         "description": "A comprehensive CRM designed for photographers to manage client bookings, galleries, pricing packages, and referral tracking. Streamline your photography business and enhance client relationships with ease!",
-        "link": "/apps/photo-crm-9ff8ad0d",
+        "link": "https://app.base44.com/apps/photo-crm-9ff8ad0d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8f10fb_logo.png",
         "categories": [
             "productivity",
@@ -715,7 +715,7 @@
     {
         "title": "Video Analytics Advisor",
         "description": "An AI-powered app that analyzes your YouTube video metrics and delivers actionable insights and recommendations to enhance content performance and viewer engagement.",
-        "link": "/apps/video-analytics-advisor-9ff8ac9b",
+        "link": "https://app.base44.com/apps/video-analytics-advisor-9ff8ac9b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/db2d01_logo.png",
         "categories": [
             "analytics",
@@ -728,7 +728,7 @@
     {
         "title": "AI Video Editor Pro",
         "description": "An intelligent video editing tool that harnesses the power of AI to enhance and streamline your video projects, providing automated improvements and editing suggestions for professional results.",
-        "link": "/apps/ai-video-editor-pro-9ff8ac8e",
+        "link": "https://app.base44.com/apps/ai-video-editor-pro-9ff8ac8e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0cb8ee_logo.png",
         "categories": [
             "productivity",
@@ -741,7 +741,7 @@
     {
         "title": "Court Manager",
         "description": "An app that processes court rolls and directives, providing legal practitioners with relevant information about judges, courts, and any directives for their cases.",
-        "link": "/apps/court-manager-9ff8ac7b",
+        "link": "https://app.base44.com/apps/court-manager-9ff8ac7b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/9e5236_logo.png",
         "categories": [
             "legal",
@@ -754,7 +754,7 @@
     {
         "title": "TipWave",
         "description": "TipWave is a user-friendly app that allows guests to easily tip their waiters by scanning a QR code, selecting a custom amount, and sending a personal message, all without needing to download any software. It&#x27;s a seamless way to show appreciation for excellent service!",
-        "link": "/apps/tip-wave-9ff8ab60",
+        "link": "https://app.base44.com/apps/tip-wave-9ff8ab60",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fefed2_logo.png",
         "categories": [
             "consumer apps",
@@ -766,7 +766,7 @@
     {
         "title": "Gem Match",
         "description": "Gem Match is an engaging match-3 puzzle game where players swap colorful gems to create combinations, earn points, and advance through challenging levels. Fun mechanics and beautiful animations make every move exciting!",
-        "link": "/apps/gem-match-9ff8ab4d",
+        "link": "https://app.base44.com/apps/gem-match-9ff8ab4d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/28aed8_logo.png",
         "categories": [
             "gaming"
@@ -777,7 +777,7 @@
     {
         "title": "Tactical Radio Console",
         "description": "An intuitive radio communication interface designed for battalion commanders to manage and communicate across multiple channels, ensuring seamless tactical operations.",
-        "link": "/apps/tactical-radio-console-9ff8ab09",
+        "link": "https://app.base44.com/apps/tactical-radio-console-9ff8ab09",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ac9210_logo.png",
         "categories": [
             "communication",
@@ -790,7 +790,7 @@
     {
         "title": "FitTracker",
         "description": "FitTracker is a powerful fitness app that helps you log workouts, track your progress, and analyze your fitness journey effectively, all in one place.",
-        "link": "/apps/fit-tracker-9ff8aada",
+        "link": "https://app.base44.com/apps/fit-tracker-9ff8aada",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/915f7a_logo.png",
         "categories": [
             "health",
@@ -803,7 +803,7 @@
     {
         "title": "My Portfolio",
         "description": "A beautiful and modern portfolio website to showcase your projects with intuitive navigation and filtering options.",
-        "link": "/apps/my-portfolio-9ff8aa8a",
+        "link": "https://app.base44.com/apps/my-portfolio-9ff8aa8a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/916761_7C5280FF-C93A-4878-B4FE-DF716FE23A2F.jpg",
         "categories": [
             "design",
@@ -816,7 +816,7 @@
     {
         "title": "eSignify",
         "description": "A convenient platform for securely signing and managing documents online, enabling multiple signers to collaborate seamlessly.",
-        "link": "/apps/e-signify-9ff8aa53",
+        "link": "https://app.base44.com/apps/e-signify-9ff8aa53",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f0c9ca_logo.png",
         "categories": [
             "productivity",
@@ -829,7 +829,7 @@
     {
         "title": "Weight Tracker",
         "description": "An intuitive app that helps you track your daily weight, monitor your progress towards your goal weight, and visualize it with beautiful graphs.",
-        "link": "/apps/weight-tracker-9ff8aa13",
+        "link": "https://app.base44.com/apps/weight-tracker-9ff8aa13",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5ce066_logo.png",
         "categories": [
             "health",
@@ -842,7 +842,7 @@
     {
         "title": "TravelEase",
         "description": "TravelEase is your go-to web application for planning the perfect vacation. Discover breathtaking destinations, flights, and hotels all in one place!",
-        "link": "/apps/travel-ease-9ff8a9f8",
+        "link": "https://app.base44.com/apps/travel-ease-9ff8a9f8",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/44936c_logo.png",
         "categories": [
             "travel",
@@ -855,7 +855,7 @@
     {
         "title": "Weparo",
         "description": "Weparo is a modern dating app that connects you with singles through social media, offering a seamless registration process and personalized match filtering.",
-        "link": "/apps/weparo-9ff8a9cf",
+        "link": "https://app.base44.com/apps/weparo-9ff8a9cf",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1323cd_logo.png",
         "categories": [
             "social media",
@@ -868,7 +868,7 @@
     {
         "title": "TV Stream Hub",
         "description": "A user-friendly streaming app that allows you to watch your favorite movies, documentaries, and live sports, all in one place, optimized for Android TV screens.",
-        "link": "/apps/tv-stream-hub-9ff8a995",
+        "link": "https://app.base44.com/apps/tv-stream-hub-9ff8a995",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bea379_logo.png",
         "categories": [
             "entertainment",
@@ -881,7 +881,7 @@
     {
         "title": "MeetUp",
         "description": "MeetUp is a fun and interactive app that helps you discover and connect with people nearby based on shared interests. Engage with potential matches, chat, and build meaningful relationships all from the comfort of your device.",
-        "link": "/apps/meet-up-9ff8a94b",
+        "link": "https://app.base44.com/apps/meet-up-9ff8a94b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5b59ad_logo.png",
         "categories": [
             "social media",
@@ -894,7 +894,7 @@
     {
         "title": "LawSuite",
         "description": "An efficient document management system for law firms, enabling seamless upload, organization, and template generation of legal documents with AI integration.",
-        "link": "/apps/law-suite-9ff8a907",
+        "link": "https://app.base44.com/apps/law-suite-9ff8a907",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/000567_logo.png",
         "categories": [
             "legal",
@@ -907,7 +907,7 @@
     {
         "title": "CardVault",
         "description": "CardVault is a dynamic platform for trading card collectors, enabling users to track collections, view market values, and trade or sell cards within a vibrant community. Join today to experience the best of card collecting!",
-        "link": "/apps/card-vault-9ff8a8e6",
+        "link": "https://app.base44.com/apps/card-vault-9ff8a8e6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/224d1f_logo.png",
         "categories": [
             "consumer apps",
@@ -920,7 +920,7 @@
     {
         "title": "RF Chain Designer",
         "description": "An intuitive tool for engineers to design and optimize RF chains by selecting the best components based on specific electrical requirements.",
-        "link": "/apps/rf-chain-designer-9ff8a8c1",
+        "link": "https://app.base44.com/apps/rf-chain-designer-9ff8a8c1",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a2cedc_logo.png",
         "categories": [
             "developer tools",
@@ -933,7 +933,7 @@
     {
         "title": "\u05de\u05e1 \u05d7\u05db\u05dd (Smart Tax)",
         "description": "\u05e2\u05d5\u05d6\u05e8 \u05d7\u05db\u05dd \u05d4\u05de\u05d0\u05e4\u05e9\u05e8 \u05dc\u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05dc\u05e7\u05d1\u05dc \u05ea\u05e9\u05d5\u05d1\u05d5\u05ea \u05dc\u05e9\u05d0\u05dc\u05d5\u05ea \u05d1\u05e0\u05d5\u05e9\u05d0 \u05de\u05e1 \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc, \u05dc\u05d4\u05d1\u05d9\u05df \u05e0\u05d4\u05dc\u05d9\u05dd, \u05d5\u05dc\u05e0\u05d4\u05dc \u05d0\u05ea \u05d4\u05d7\u05d5\u05d1\u05d5\u05ea \u05d1\u05e6\u05d5\u05e8\u05d4 \u05e0\u05d5\u05d7\u05d4 \u05d5\u05e4\u05e9\u05d5\u05d8\u05d4.",
-        "link": "/apps/smart-tax-9ff8a88c",
+        "link": "https://app.base44.com/apps/smart-tax-9ff8a88c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bcacf6_logo.png",
         "categories": [
             "finance",
@@ -946,7 +946,7 @@
     {
         "title": "Raziel Avraham - A Hero\u2019s Legacy",
         "description": "An interactive app that brings to life the remarkable story of Raziel Avraham, exploring his military career, legendary battles, and the inspiring legacy he leaves behind for future generations.",
-        "link": "/apps/raziel-avraham-a-heros-legacy-9ff8a84f",
+        "link": "https://app.base44.com/apps/raziel-avraham-a-heros-legacy-9ff8a84f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2930f2_logo.png",
         "categories": [
             "education",
@@ -959,7 +959,7 @@
     {
         "title": "GRC Assistant",
         "description": "A powerful and intuitive tool for managing governance, risk, and compliance tasks, helping professionals easily respond to security audits and regulatory requirements with AI assistance.",
-        "link": "/apps/grc-assistant-9ff8a835",
+        "link": "https://app.base44.com/apps/grc-assistant-9ff8a835",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8624fa_logo.png",
         "categories": [
             "productivity",
@@ -972,7 +972,7 @@
     {
         "title": "InterviewMaster",
         "description": "A powerful AI-driven platform designed to streamline job interviews by generating relevant questions, analyzing candidate responses, and providing actionable feedback tailored to various industries and skill levels.",
-        "link": "/apps/interview-master-9ff8a822",
+        "link": "https://app.base44.com/apps/interview-master-9ff8a822",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3ea9ed_logo.png",
         "categories": [
             "business apps",
@@ -985,7 +985,7 @@
     {
         "title": "\u05e8\u05d6\u05d9\u05d0\u05dc \u05d0\u05d1\u05e8\u05d4\u05dd - \u05d0\u05d9\u05e9 \u05d5\u05d4\u05d0\u05d2\u05d3\u05d4",
         "description": "\u05d0\u05ea\u05e8 \u05de\u05d5\u05e8\u05e9\u05ea \u05d4\u05de\u05e1\u05e4\u05e8 \u05d0\u05ea \u05e1\u05d9\u05e4\u05d5\u05e8\u05d5 \u05e9\u05dc \u05e8\u05d6\u05d9\u05d0\u05dc \u05d0\u05d1\u05e8\u05d4\u05dd, \u05dc\u05d5\u05d7\u05dd \u05de\u05d5\u05e1\u05d3 \u05d5\u05ea\u05d9\u05e7 \u05d5\u05d0\u05d2\u05d3\u05d4 \u05de\u05d4\u05dc\u05db\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05d4\u05d0\u05ea\u05e8 \u05db\u05d5\u05dc\u05dc \u05d1\u05d9\u05d5\u05d2\u05e8\u05e4\u05d9\u05d4, \u05de\u05d5\u05e8\u05e9\u05ea \u05d5\u05e2\u05e7\u05e8\u05d5\u05e0\u05d5\u05ea \u05d4\u05e0\u05d7\u05d9\u05d4 \u05e9\u05d4\u05d5\u05ea\u05d9\u05e8.",
-        "link": "/apps/-9ff8a7cf",
+        "link": "https://app.base44.com/apps/-9ff8a7cf",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2eeb9b_logo.png",
         "categories": [
             "education",
@@ -998,7 +998,7 @@
     {
         "title": "Portfolio Pro",
         "description": "A dynamic portfolio website to showcase projects and skills, helping professionals connect with opportunities.",
-        "link": "/apps/portfolio-pro-9ff8a79b",
+        "link": "https://app.base44.com/apps/portfolio-pro-9ff8a79b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3f22e1_logo.png",
         "categories": [
             "productivity",
@@ -1011,7 +1011,7 @@
     {
         "title": "Stock Tracker",
         "description": "A powerful dashboard to monitor stock prices, manage investments, and receive real-time recommendations for buying, holding, or selling stocks.",
-        "link": "/apps/stock-tracker-9ff8a74f",
+        "link": "https://app.base44.com/apps/stock-tracker-9ff8a74f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bbabf5_logo.png",
         "categories": [
             "finance",
@@ -1024,7 +1024,7 @@
     {
         "title": "AgriCalendar",
         "description": "An intuitive agricultural activity calendar to help you track your farming tasks, crops, and schedules based on your geographical location.",
-        "link": "/apps/agri-calendar-9ff8a6d0",
+        "link": "https://app.base44.com/apps/agri-calendar-9ff8a6d0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3d1f31_logo.png",
         "categories": [
             "productivity",
@@ -1037,7 +1037,7 @@
     {
         "title": "Analytics Guardian",
         "description": "A powerful dashboard to monitor and manage your Google Analytics data streams with insightful metrics and alerts.",
-        "link": "/apps/analytics-guardian-9ff8a69c",
+        "link": "https://app.base44.com/apps/analytics-guardian-9ff8a69c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/669921_logo.png",
         "categories": [
             "analytics",
@@ -1050,7 +1050,7 @@
     {
         "title": "Cloud Cost Tracker",
         "description": "A user-friendly dashboard for monitoring and analyzing your Google Cloud Platform expenses, enabling efficient budgeting and cost management.",
-        "link": "/apps/cloud-cost-tracker-9ff8a67f",
+        "link": "https://app.base44.com/apps/cloud-cost-tracker-9ff8a67f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b935c9_logo.png",
         "categories": [
             "finance",
@@ -1063,7 +1063,7 @@
     {
         "title": "Flight Delay Predictor",
         "description": "Predict the likelihood of flight delays based on historical data and current flight conditions, helping travelers plan more effectively.",
-        "link": "/apps/flight-delay-predictor-9ff8a66a",
+        "link": "https://app.base44.com/apps/flight-delay-predictor-9ff8a66a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/50124c_logo.png",
         "categories": [
             "travel",
@@ -1076,7 +1076,7 @@
     {
         "title": "Workflow Master",
         "description": "An intuitive app that allows users to create, manage, and run workflows with customizable steps and real-time results tracking.",
-        "link": "/apps/workflow-master-9ff8a5dc",
+        "link": "https://app.base44.com/apps/workflow-master-9ff8a5dc",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/01837e_logo.png",
         "categories": [
             "productivity",
@@ -1089,7 +1089,7 @@
     {
         "title": "Shakti",
         "description": "An AI-powered platform designed to guide professionals in their career development journey through personalized experiences, structured pathways, and continuous learning opportunities.",
-        "link": "/apps/shakti-9ff8a556",
+        "link": "https://app.base44.com/apps/shakti-9ff8a556",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3e87f4_logo.png",
         "categories": [
             "education",
@@ -1102,7 +1102,7 @@
     {
         "title": "TenderAI",
         "description": "An AI-powered dashboard for managing tender proposals and enhancing company knowledge base through effective analysis and tracking.",
-        "link": "/apps/tender-ai-9ff8a524",
+        "link": "https://app.base44.com/apps/tender-ai-9ff8a524",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b97a68_logo.png",
         "categories": [
             "productivity",
@@ -1115,7 +1115,7 @@
     {
         "title": "Sales Performance Dashboard",
         "description": "A powerful dashboard for tracking key sales metrics such as scheduled calls, canceled calls, offers made, and cash collected, enabling better performance management and decision-making.",
-        "link": "/apps/sales-performance-dashboard-9ff8a4ed",
+        "link": "https://app.base44.com/apps/sales-performance-dashboard-9ff8a4ed",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1586e7_logo.png",
         "categories": [
             "business apps",
@@ -1128,7 +1128,7 @@
     {
         "title": "Self-Help Group Manager",
         "description": "A comprehensive system for managing self-help groups, tracking members, contributions, loans, and fines, ensuring transparency and effective management of group finances.",
-        "link": "/apps/self-help-group-manager-9ff8a482",
+        "link": "https://app.base44.com/apps/self-help-group-manager-9ff8a482",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2757dd_logo.png",
         "categories": [
             "productivity",
@@ -1141,7 +1141,7 @@
     {
         "title": "LogiTrack",
         "description": "A comprehensive dashboard to manage and track logistics and delivery operations, providing real-time updates and performance insights for efficient service.",
-        "link": "/apps/logi-track-79f52bb9",
+        "link": "https://app.base44.com/apps/logi-track-79f52bb9",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8f5ea1_logo.png",
         "categories": [
             "business apps",
@@ -1154,7 +1154,7 @@
     {
         "title": "FitPartner",
         "description": "FitPartner is an app designed to connect fitness enthusiasts, helping you find your perfect workout buddy, set goals, and stay motivated together.",
-        "link": "/apps/fit-partner-79f52aab",
+        "link": "https://app.base44.com/apps/fit-partner-79f52aab",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4dd6b6_logo.png",
         "categories": [
             "health",
@@ -1167,7 +1167,7 @@
     {
         "title": "LMS Admin Dashboard",
         "description": "A powerful dashboard for administrators to manage and monitor student progress in their Learning Management System (LMS), offering user sorting, course completion tracking, and data export features for efficient oversight.",
-        "link": "/apps/lms-admin-dashboard-79f52a85",
+        "link": "https://app.base44.com/apps/lms-admin-dashboard-79f52a85",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f790bc_logo.png",
         "categories": [
             "education",
@@ -1180,7 +1180,7 @@
     {
         "title": "Freelance Client Manager",
         "description": "A centralized platform for freelance web developers to manage client requests, track project queues, and communicate seamlessly through live chat. Submit project requests and stay organized in one intuitive dashboard.",
-        "link": "/apps/freelance-client-manager-79f52a5a",
+        "link": "https://app.base44.com/apps/freelance-client-manager-79f52a5a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ab1631_logo.png",
         "categories": [
             "productivity",
@@ -1193,7 +1193,7 @@
     {
         "title": "BodySync AI",
         "description": "BodySync AI empowers users by analyzing their body photos for posture imbalances and providing personalized exercise and diet recommendations, tailored with uplifting tones.",
-        "link": "/apps/body-sync-ai-79f52a37",
+        "link": "https://app.base44.com/apps/body-sync-ai-79f52a37",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1dc2ac_logo.png",
         "categories": [
             "health",
@@ -1206,7 +1206,7 @@
     {
         "title": "CookBook",
         "description": "A delightful recipe directory app that helps you discover, create, and share delicious recipes from around the world.",
-        "link": "/apps/cook-book-79f529be",
+        "link": "https://app.base44.com/apps/cook-book-79f529be",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bbd2e4_logo.png",
         "categories": [
             "consumer apps",
@@ -1219,7 +1219,7 @@
     {
         "title": "Revenue Forecast Pro",
         "description": "A powerful dashboard application designed to help businesses forecast revenue with confidence intervals, key metrics, and intuitive visualizations for better decision-making.",
-        "link": "/apps/revenue-forecast-pro-79f5297a",
+        "link": "https://app.base44.com/apps/revenue-forecast-pro-79f5297a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/605b3c_logo.png",
         "categories": [
             "business apps",
@@ -1232,7 +1232,7 @@
     {
         "title": "Quiz Master",
         "description": "Quiz Master is an interactive quiz app that tests your knowledge with a series of engaging questions and personalized follow-ups based on your answers. Challenge yourself and improve your understanding in a fun and adaptive way!",
-        "link": "/apps/quiz-master-79f52737",
+        "link": "https://app.base44.com/apps/quiz-master-79f52737",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/56b1ae_logo.png",
         "categories": [
             "education",
@@ -1245,7 +1245,7 @@
     {
         "title": "Mama Match",
         "description": "A supportive platform that connects mothers seeking friendship based on location, shared interests, and parenting styles, helping them build meaningful relationships throughout their motherhood journey.",
-        "link": "/apps/mama-match-4469f141",
+        "link": "https://app.base44.com/apps/mama-match-4469f141",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3ff85a_logo.png",
         "categories": [
             "social media",
@@ -1258,7 +1258,7 @@
     {
         "title": "Growth in Faith",
         "description": "A personal development app that empowers individuals to grow emotionally, personally, and spiritually through daily challenges, practical tools, and insights drawn from Jewish wisdom.",
-        "link": "/apps/growth-in-faith-4469f116",
+        "link": "https://app.base44.com/apps/growth-in-faith-4469f116",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2fbc82_logo.png",
         "categories": [
             "education",
@@ -1271,7 +1271,7 @@
     {
         "title": "Scalp &amp; Hair Health Analyzer",
         "description": "An AI-powered app that provides comprehensive analysis of your scalp and hair health, offering insights and personalized care recommendations based on image analysis.",
-        "link": "/apps/scalp-hair-health-analyzer-4469f0a7",
+        "link": "https://app.base44.com/apps/scalp-hair-health-analyzer-4469f0a7",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/67a47f_logo.png",
         "categories": [
             "health",
@@ -1284,7 +1284,7 @@
     {
         "title": "Career Motivator",
         "description": "An interactive assessment tool designed to help professionals identify and rank their core work motivators, including competence, relatedness, and autonomy, while aligning them with personal and professional goals.",
-        "link": "/apps/career-motivator-4469efbd",
+        "link": "https://app.base44.com/apps/career-motivator-4469efbd",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1f3f3f_logo.png",
         "categories": [
             "productivity",
@@ -1297,7 +1297,7 @@
     {
         "title": "TattooBoard",
         "description": "TattooBoard is a vibrant community platform that connects tattoo artists and enthusiasts, allowing spontaneous bookings and seamless communication.",
-        "link": "/apps/tattoo-board-62ed3c70",
+        "link": "https://app.base44.com/apps/tattoo-board-62ed3c70",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5dc904_logo.png",
         "categories": [
             "social media",
@@ -1310,7 +1310,7 @@
     {
         "title": "Event Sync",
         "description": "A user-friendly app to manage and organize your events by easily importing, searching, and filtering them.",
-        "link": "/apps/event-sync-62ed3b67",
+        "link": "https://app.base44.com/apps/event-sync-62ed3b67",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5d6c2b_logo.png",
         "categories": [
             "productivity",
@@ -1323,7 +1323,7 @@
     {
         "title": "Task Tracker",
         "description": "An intuitive todo list app to help you manage and track your tasks effortlessly.",
-        "link": "/apps/task-tracker-5fa3180a",
+        "link": "https://app.base44.com/apps/task-tracker-5fa3180a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d28b60_logo.png",
         "categories": [
             "productivity",
@@ -1336,7 +1336,7 @@
     {
         "title": "QuickTasks",
         "description": "A simple and efficient app to help you manage your daily tasks and stay organized.",
-        "link": "/apps/quick-tasks-3ec44157",
+        "link": "https://app.base44.com/apps/quick-tasks-3ec44157",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e56b58_logo.png",
         "categories": [
             "productivity",
@@ -1349,7 +1349,7 @@
     {
         "title": "Simple Todo List",
         "description": "A user-friendly app for managing and organizing your daily tasks with ease. Add, complete, and delete tasks to stay productive.",
-        "link": "/apps/simple-todo-list-62ed37a0",
+        "link": "https://app.base44.com/apps/simple-todo-list-62ed37a0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/7c8ddc_logo.png",
         "categories": [
             "productivity",
@@ -1362,7 +1362,7 @@
     {
         "title": "Simple Tasks",
         "description": "A straightforward and efficient app for managing your daily tasks and to-do lists.",
-        "link": "/apps/simple-tasks-eaae6141",
+        "link": "https://app.base44.com/apps/simple-tasks-eaae6141",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/70be1a_logo.png",
         "categories": [
             "productivity",
@@ -1375,7 +1375,7 @@
     {
         "title": "DueDiligence Pro",
         "description": "A powerful app for conducting due diligence investigations with AI-powered report generation, streamlined management, and insightful analysis tools.",
-        "link": "/apps/due-diligence-pro-91f961b6",
+        "link": "https://app.base44.com/apps/due-diligence-pro-91f961b6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/dd1519_logo.png",
         "categories": [
             "business apps",
@@ -1388,7 +1388,7 @@
     {
         "title": "Crane Safety Management System",
         "description": "A comprehensive platform to manage crane data, track inspections, visualize safety zones, and monitor accidents, ensuring compliance with regulations and enhancing workplace safety.",
-        "link": "/apps/crane-safety-management-system-91f96192",
+        "link": "https://app.base44.com/apps/crane-safety-management-system-91f96192",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/116d5d_logo.png",
         "categories": [
             "productivity",
@@ -1401,7 +1401,7 @@
     {
         "title": "TattooTime",
         "description": "An app that connects tattoo artists with clients, allowing artists to showcase their availability and manage appointments while helping clients find the perfect tattoo artist for their needs.",
-        "link": "/apps/tattoo-time-70a9fdc0",
+        "link": "https://app.base44.com/apps/tattoo-time-70a9fdc0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/adf507_logo.png",
         "categories": [
             "consumer apps",
@@ -1414,7 +1414,7 @@
     {
         "title": "LeadManager",
         "description": "A user-friendly application for managing leads, tracking communication, and organizing customer information efficiently.",
-        "link": "/apps/lead-manager-70a9fd75",
+        "link": "https://app.base44.com/apps/lead-manager-70a9fd75",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b70316_logo.png",
         "categories": [
             "productivity",
@@ -1427,7 +1427,7 @@
     {
         "title": "Base44 Business Suite",
         "description": "An all-in-one platform for businesses to manage operations, collaborate effectively, and streamline their workflow with advanced features and analytics.",
-        "link": "/apps/base44-business-suite-1111ffa6",
+        "link": "https://app.base44.com/apps/base44-business-suite-1111ffa6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ef4b90_logo.png",
         "categories": [
             "business apps",
@@ -1440,7 +1440,7 @@
     {
         "title": "Voice Buddy",
         "description": "A kid-friendly voice messaging app that allows children to easily send and receive voice messages, promoting communication without needing a phone.",
-        "link": "/apps/voice-buddy-a599f9b5",
+        "link": "https://app.base44.com/apps/voice-buddy-a599f9b5",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/011f4b_logo.png",
         "categories": [
             "communication",
@@ -1453,7 +1453,7 @@
     {
         "title": "Cannabis Growth Advisor",
         "description": "An intuitive app that helps cannabis growers optimize their growing conditions by analyzing key parameters and providing customized recommendations for healthy plant growth.",
-        "link": "/apps/cannabis-growth-advisor-a599f930",
+        "link": "https://app.base44.com/apps/cannabis-growth-advisor-a599f930",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1e1d95_logo.png",
         "categories": [
             "consumer apps",
@@ -1466,7 +1466,7 @@
     {
         "title": "Word Builder",
         "description": "A fun and engaging game where you can drag letters to create words in a creative challenge. Test your vocabulary and have fun while enhancing your language skills!",
-        "link": "/apps/word-builder-a599f824",
+        "link": "https://app.base44.com/apps/word-builder-a599f824",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/270a6f_logo.png",
         "categories": [
             "gaming",
@@ -1479,7 +1479,7 @@
     {
         "title": "VideoHub",
         "description": "VideoHub is a dynamic video sharing platform that allows users to upload, watch, and engage with videos across various categories, fostering a community of creators and viewers.",
-        "link": "/apps/video-hub-a599f7c8",
+        "link": "https://app.base44.com/apps/video-hub-a599f7c8",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ed69c8_logo.png",
         "categories": [
             "video streaming",
@@ -1492,7 +1492,7 @@
     {
         "title": "PollMaster",
         "description": "PollMaster is a user-friendly app that allows you to create engaging polls, participate in voting on various topics, and see real-time results. It&#x27;s perfect for gathering opinions and making decisions with ease!",
-        "link": "/apps/poll-master-a599f7b4",
+        "link": "https://app.base44.com/apps/poll-master-a599f7b4",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d5e212_logo.png",
         "categories": [
             "productivity",
@@ -1505,7 +1505,7 @@
     {
         "title": "Dreamy Plans",
         "description": "A private social app for you and your friends to effortlessly plan creative meetups, share inspiring ideas, and track your brainstorming progress, all with an emotional swag 2014 aesthetic.",
-        "link": "/apps/dreamy-plans-a599f74c",
+        "link": "https://app.base44.com/apps/dreamy-plans-a599f74c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1c2a15_logo.png",
         "categories": [
             "social media",
@@ -1518,7 +1518,7 @@
     {
         "title": "OneWalletPro",
         "description": "OneWalletPro is a comprehensive cryptocurrency wallet and finance management app, enabling users to seamlessly track their wallets, transactions, and analytics while having full control over their crypto assets.",
-        "link": "/apps/one-wallet-pro-a599f6dc",
+        "link": "https://app.base44.com/apps/one-wallet-pro-a599f6dc",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/df69f4_logo.png",
         "categories": [
             "finance",
@@ -1531,7 +1531,7 @@
     {
         "title": "CryptoX",
         "description": "A beautiful crypto trading platform that allows users to buy, sell, and track cryptocurrencies with live charts and portfolio management.",
-        "link": "/apps/crypto-x-a599f690",
+        "link": "https://app.base44.com/apps/crypto-x-a599f690",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/06b237_logo.png",
         "categories": [
             "finance",
@@ -1543,7 +1543,7 @@
     {
         "title": "FashionFiesta",
         "description": "FashionFiesta is your go-to online store for stylish clothing and accessories. Explore our wide range of products for men, women, and kids, discover trending styles, and enjoy a seamless shopping experience with secure payments and fast shipping.",
-        "link": "/apps/fashion-fiesta-a599f66d",
+        "link": "https://app.base44.com/apps/fashion-fiesta-a599f66d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5c3f5d_logo.png",
         "categories": [
             "e-commerce",
@@ -1555,7 +1555,7 @@
     {
         "title": "MetaTrader 4 Analytics",
         "description": "A powerful trading analytics platform for monitoring trades, analyzing performance, and maintaining a trading journal to enhance your trading journey.",
-        "link": "/apps/meta-trader-4-analytics-a599f630",
+        "link": "https://app.base44.com/apps/meta-trader-4-analytics-a599f630",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/104067_logo.png",
         "categories": [
             "finance",
@@ -1568,7 +1568,7 @@
     {
         "title": "Sudoku Master",
         "description": "A fun and engaging Sudoku game that challenges your mind. Choose your difficulty level, track your time, and solve puzzles to become a Sudoku master!",
-        "link": "/apps/sudoku-master-a599f616",
+        "link": "https://app.base44.com/apps/sudoku-master-a599f616",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/dd8916_logo.png",
         "categories": [
             "gaming",
@@ -1581,7 +1581,7 @@
     {
         "title": "CodeGenie",
         "description": "CodeGenie is your personal AI coding assistant, here to help you with programming questions, code reviews, and software development guidance in a friendly chat interface.",
-        "link": "/apps/code-genie-a599f601",
+        "link": "https://app.base44.com/apps/code-genie-a599f601",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2a5d67_Screenshot2025-02-02at221856.png",
         "categories": [
             "developer tools",
@@ -1594,7 +1594,7 @@
     {
         "title": "Social Scheduler",
         "description": "An app that synchronizes your friends&#x27; availability and suggests fun social events based on common free time slots.",
-        "link": "/apps/social-scheduler-a599f5a6",
+        "link": "https://app.base44.com/apps/social-scheduler-a599f5a6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8638fa_logo.png",
         "categories": [
             "social media",
@@ -1607,7 +1607,7 @@
     {
         "title": "TradingView Strategy Builder",
         "description": "An AI-powered strategy builder for creating and managing trading strategies with optimized Pine Script code for TradingView.",
-        "link": "/apps/trading-view-strategy-builder-a599f473",
+        "link": "https://app.base44.com/apps/trading-view-strategy-builder-a599f473",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e8048d_logo.png",
         "categories": [
             "finance",
@@ -1620,7 +1620,7 @@
     {
         "title": "Yar\u0131m Kalan Projeler",
         "description": "Bir\u00e7ok projeyi y\u00f6netip tamamlamak i\u00e7in kolay bir ara\u00e7. Yar\u0131m kalan projelerinizi takip edin ve hedeflerinize ula\u015f\u0131n.",
-        "link": "/apps/yarm-kalan-projeler-a599f463",
+        "link": "https://app.base44.com/apps/yarm-kalan-projeler-a599f463",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/426eac_logo.png",
         "categories": [
             "productivity",
@@ -1633,7 +1633,7 @@
     {
         "title": "Explore Attractions",
         "description": "Discover nearby attractions and things to do based on your location, complete with prices and recommended age groups.",
-        "link": "/apps/explore-attractions-a599f41b",
+        "link": "https://app.base44.com/apps/explore-attractions-a599f41b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/544603_logo.png",
         "categories": [
             "travel",
@@ -1646,7 +1646,7 @@
     {
         "title": "Anota\u00e7\u00f5es V\u00e1lidas",
         "description": "Um aplicativo que permite registrar e gerenciar anota\u00e7\u00f5es com data de validade, ideal para organizar informa\u00e7\u00f5es importantes de forma pr\u00e1tica e automatizada. As anota\u00e7\u00f5es podem ser categorizadas por t\u00edtulo, facilitando a consulta e a gest\u00e3o de prazos, garantindo que dados relevantes n\u00e3o sejam esquecidos.",
-        "link": "/apps/anotacoes-validas-a599f387",
+        "link": "https://app.base44.com/apps/anotacoes-validas-a599f387",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fa7db3_logo.png",
         "categories": [
             "productivity",
@@ -1659,7 +1659,7 @@
     {
         "title": "TweetSync",
         "description": "A social platform to express your thoughts, share ideas, and connect with friends in a microblogging format. Post tweets, interact with others, and stay updated with real-time news.",
-        "link": "/apps/tweet-sync-a599f36e",
+        "link": "https://app.base44.com/apps/tweet-sync-a599f36e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/404937_logo.png",
         "categories": [
             "social media",
@@ -1672,7 +1672,7 @@
     {
         "title": "Design Team Onboarding Portal",
         "description": "An interactive onboarding platform designed to welcome new design team members, providing them with essential information, team introductions, tools and workflows, project showcases, and insights into our company culture.",
-        "link": "/apps/design-team-onboarding-portal-a599f2cf",
+        "link": "https://app.base44.com/apps/design-team-onboarding-portal-a599f2cf",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/7585a1_logo.png",
         "categories": [
             "organizational software",
@@ -1685,7 +1685,7 @@
     {
         "title": "ShopNow",
         "description": "An e-commerce platform for discovering and purchasing a wide range of products easily and securely.",
-        "link": "/apps/shop-now-a599f267",
+        "link": "https://app.base44.com/apps/shop-now-a599f267",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d37547_logo.png",
         "categories": [
             "e-commerce",
@@ -1697,7 +1697,7 @@
     {
         "title": "TradeMaster",
         "description": "An advanced platform for managing trading strategies, tracking trades, and integrating performance analytics with real-time webhook notifications.",
-        "link": "/apps/trade-master-a599f241",
+        "link": "https://app.base44.com/apps/trade-master-a599f241",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/45db7f_logo.png",
         "categories": [
             "finance",
@@ -1710,7 +1710,7 @@
     {
         "title": "Strateji Olu\u015fturucu",
         "description": "Strateji Olu\u015fturucu, kullan\u0131c\u0131lar\u0131n kolayca finansal ticaret stratejileri yaratmalar\u0131na yard\u0131mc\u0131 olan bir uygulamad\u0131r. Kullan\u0131c\u0131 dostu aray\u00fcz\u00fc ile belirledi\u011finiz \u015fartlar\u0131 h\u0131zl\u0131ca form\u00fcle eder ve kaydeder.",
-        "link": "/apps/strateji-olusturucu-a599f1d3",
+        "link": "https://app.base44.com/apps/strateji-olusturucu-a599f1d3",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d7614a_logo.png",
         "categories": [
             "finance",
@@ -1723,7 +1723,7 @@
     {
         "title": "BetTracker Pro",
         "description": "A sleek, modern dashboard for tracking and analyzing your sports betting performance, helping you manage your bankroll and improve your betting strategies.",
-        "link": "/apps/bet-tracker-pro-a599f189",
+        "link": "https://app.base44.com/apps/bet-tracker-pro-a599f189",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/633080_logo.png",
         "categories": [
             "finance",
@@ -1736,7 +1736,7 @@
     {
         "title": "ProjectFlow",
         "description": "ProjectFlow is a powerful project management tool designed to streamline workflows, manage tasks, track progress, and collaborate effectively with team members. Simplify your project planning and execution to deliver on time and within budget.",
-        "link": "/apps/project-flow-a599f0a2",
+        "link": "https://app.base44.com/apps/project-flow-a599f0a2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/898fa7_logo.png",
         "categories": [
             "project management",
@@ -1749,7 +1749,7 @@
     {
         "title": "Engine",
         "description": "Engine is your all-in-one solution for customized Kaspa nodes, equipped with the powerful EngineAPI for seamless integration and management of your Kaspa needs.",
-        "link": "/apps/engine-a599f052",
+        "link": "https://app.base44.com/apps/engine-a599f052",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/7ad6bf_logo.png",
         "categories": [
             "developer tools",
@@ -1762,7 +1762,7 @@
     {
         "title": "DocTranslate",
         "description": "An app that automates the translation of English documents into Hebrew, providing users with quick and accurate translations of PDFs and Word files.",
-        "link": "/apps/doc-translate-a599f015",
+        "link": "https://app.base44.com/apps/doc-translate-a599f015",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f94eb6_logo.png",
         "categories": [
             "productivity",
@@ -1775,7 +1775,7 @@
     {
         "title": "Contrabasta Brewery",
         "description": "A modern brewery website showcasing a diverse range of craft beers, upcoming events, and a chance to connect with our passionate team.",
-        "link": "/apps/contrabasta-brewery-a599ef3f",
+        "link": "https://app.base44.com/apps/contrabasta-brewery-a599ef3f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bc7800_logo.png",
         "categories": [
             "entertainment",
@@ -1788,7 +1788,7 @@
     {
         "title": "FITZ",
         "description": "StyleSync is your personal wardrobe management app, helping you track clothing inventory, browse collections, and customize your style effortlessly.",
-        "link": "/apps/fitz-a599eea0",
+        "link": "https://app.base44.com/apps/fitz-a599eea0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e680d8_logo.png",
         "categories": [
             "productivity",
@@ -1801,7 +1801,7 @@
     {
         "title": "ShiftMaster",
         "description": "An intuitive app for managing employee shifts, allowing for easy assignment based on personal requests and scheduling needs.",
-        "link": "/apps/shift-master-a599ee7b",
+        "link": "https://app.base44.com/apps/shift-master-a599ee7b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bf2020_logo.png",
         "categories": [
             "productivity",
@@ -1814,7 +1814,7 @@
     {
         "title": "D&amp;D Quest Manager",
         "description": "A comprehensive tool for Dungeon Masters and players to manage their Dungeons and Dragons campaigns, including character sheets, monster databases, and campaign tracking features.",
-        "link": "/apps/dd-quest-manager-a599ed22",
+        "link": "https://app.base44.com/apps/dd-quest-manager-a599ed22",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/18421d_logo.png",
         "categories": [
             "gaming",
@@ -1827,7 +1827,7 @@
     {
         "title": "Dress-up Diva",
         "description": "Dress-up Diva is a fun and interactive game where players can design and dress their own avatars using a wide variety of stylish outfits and accessories. Choose from various categories of clothing and save your favorite combinations for endless fashion fun!",
-        "link": "/apps/dress-up-diva-a599ece6",
+        "link": "https://app.base44.com/apps/dress-up-diva-a599ece6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/c82a84_logo.png",
         "categories": [
             "gaming",
@@ -1840,7 +1840,7 @@
     {
         "title": "SmartDashboard",
         "description": "A modern dashboard application that provides insightful analytics, tracks metrics, and displays recent sales data to help you efficiently manage your business operations.",
-        "link": "/apps/smart-dashboard-a599ec86",
+        "link": "https://app.base44.com/apps/smart-dashboard-a599ec86",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ac50dc_logo.png",
         "categories": [
             "business apps",
@@ -1853,7 +1853,7 @@
     {
         "title": "Prompt Manager",
         "description": "An intuitive app for creating and managing prompts with organizational folders and tagging system, perfect for writers, creators, and thinkers to enhance productivity.",
-        "link": "/apps/prompt-manager-a599ebf4",
+        "link": "https://app.base44.com/apps/prompt-manager-a599ebf4",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0e04ae_logo.png",
         "categories": [
             "productivity",
@@ -1866,7 +1866,7 @@
     {
         "title": "BlogSpace",
         "description": "A modern blog platform for writers to create, share, and discover engaging content with beautiful layouts and a user-friendly editor.",
-        "link": "/apps/blog-space-a599ebb9",
+        "link": "https://app.base44.com/apps/blog-space-a599ebb9",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/338b76_logo.png",
         "categories": [
             "blogging",
@@ -1879,7 +1879,7 @@
     {
         "title": "Black Metal Art Generator",
         "description": "An AI-powered tool that creates stunning and dark black metal artwork tailored to your band&#x27;s unique style and vision.",
-        "link": "/apps/black-metal-art-generator-a599eae8",
+        "link": "https://app.base44.com/apps/black-metal-art-generator-a599eae8",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0f2f64_logo.png",
         "categories": [
             "design",
@@ -1892,7 +1892,7 @@
     {
         "title": "Epic Quest",
         "description": "An immersive text adventure game where you guide your hero through epic quests, making choices that shape the story. Enter your fantasy seed, engage with captivating narratives, and explore mysterious worlds built by AI!",
-        "link": "/apps/epic-quest-a599eaae",
+        "link": "https://app.base44.com/apps/epic-quest-a599eaae",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d59f61_logo.png",
         "categories": [
             "gaming",
@@ -1904,7 +1904,7 @@
     {
         "title": "Financial Management for Associations",
         "description": "An app that allows associations to upload spreadsheet data, analyze financial information, and visualize key statistics to better manage their finances.",
-        "link": "/apps/financial-management-for-associations-a599e9b7",
+        "link": "https://app.base44.com/apps/financial-management-for-associations-a599e9b7",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a2e587_logo.png",
         "categories": [
             "finance",
@@ -1917,7 +1917,7 @@
     {
         "title": "Kumbh Mela Travel Guide",
         "description": "A comprehensive travel app for Kumbh Mela in Prayagraj, offering event schedules, accommodation options, and an interactive map to navigate the largest spiritual gathering in the world.",
-        "link": "/apps/kumbh-mela-travel-guide-a599e7a6",
+        "link": "https://app.base44.com/apps/kumbh-mela-travel-guide-a599e7a6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/05fff1_logo.png",
         "categories": [
             "travel",
@@ -1930,7 +1930,7 @@
     {
         "title": "Incredible India",
         "description": "A travel guide app exploring India&#x27;s rich culture, stunning destinations, and essential travel tips.",
-        "link": "/apps/incredible-india-a599e78d",
+        "link": "https://app.base44.com/apps/incredible-india-a599e78d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5a3594_logo.png",
         "categories": [
             "travel",
@@ -1942,7 +1942,7 @@
     {
         "title": "AI Blog Editor",
         "description": "An innovative blogging tool that leverages AI to enhance writing, streamline edits, and manage your blog posts efficiently.",
-        "link": "/apps/ai-blog-editor-a599e76e",
+        "link": "https://app.base44.com/apps/ai-blog-editor-a599e76e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ddb41e_logo.png",
         "categories": [
             "productivity",
@@ -1955,7 +1955,7 @@
     {
         "title": "MealMaster",
         "description": "Easily plan your meals, explore delicious recipes, and manage your cooking schedule all in one app.",
-        "link": "/apps/meal-master-a599e6e6",
+        "link": "https://app.base44.com/apps/meal-master-a599e6e6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/bd6068_logo.png",
         "categories": [
             "productivity",
@@ -1968,7 +1968,7 @@
     {
         "title": "Culinary Experience",
         "description": "A catering and private chef service that offers personalized culinary experiences for special events, allowing customers to connect with the finest chefs and create unforgettable meals.",
-        "link": "/apps/culinary-experience-a599e409",
+        "link": "https://app.base44.com/apps/culinary-experience-a599e409",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/7808f1_logo.png",
         "categories": [
             "food",
@@ -1981,7 +1981,7 @@
     {
         "title": "AI Research Assistant",
         "description": "An interactive platform that helps users conduct research by facilitating conversations with AI, allowing for document uploads, and providing an intuitive chat interface to refine inquiries and obtain accurate responses quickly.",
-        "link": "/apps/ai-research-assistant-a599e149",
+        "link": "https://app.base44.com/apps/ai-research-assistant-a599e149",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/7a74ca_logo.png",
         "categories": [
             "productivity",
@@ -1994,7 +1994,7 @@
     {
         "title": "NameGenie",
         "description": "An intuitive app that generates creative names for characters, places, and more across various genres, allowing users to explore unique and memorable options.",
-        "link": "/apps/name-genie-aa64194b",
+        "link": "https://app.base44.com/apps/name-genie-aa64194b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5dadef_logo.png",
         "categories": [
             "productivity",
@@ -2007,7 +2007,7 @@
     {
         "title": "John Doe&#x27;s Portfolio",
         "description": "Showcasing the projects and skills of John Doe, a Full Stack Java Developer.",
-        "link": "/apps/john-does-portfolio-aa64185c",
+        "link": "https://app.base44.com/apps/john-does-portfolio-aa64185c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/36f127_logo.png",
         "categories": [
             "business apps",
@@ -2020,7 +2020,7 @@
     {
         "title": "Conservatory Connect",
         "description": "A comprehensive management system for music conservatories to track students, teachers, and orchestras, enabling better organization and communication within the community.",
-        "link": "/apps/conservatory-connect-aa64170b",
+        "link": "https://app.base44.com/apps/conservatory-connect-aa64170b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/65b669_logo.png",
         "categories": [
             "music",
@@ -2033,7 +2033,7 @@
     {
         "title": "Kanban Board",
         "description": "A collaborative task management tool that helps teams organize and prioritize their work visually using customizable boards, columns, and cards.",
-        "link": "/apps/kanban-board-aa6413a5",
+        "link": "https://app.base44.com/apps/kanban-board-aa6413a5",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4a30de_logo.png",
         "categories": [
             "productivity",
@@ -2046,7 +2046,7 @@
     {
         "title": "LLM Comparison Tool",
         "description": "An intuitive app for comparing responses from various language models, tracking your queries, and marking your favorites for easy access.",
-        "link": "/apps/llm-comparison-tool-aa64107a",
+        "link": "https://app.base44.com/apps/llm-comparison-tool-aa64107a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/29ef4d_logo.png",
         "categories": [
             "productivity",
@@ -2059,7 +2059,7 @@
     {
         "title": "Research Assistant",
         "description": "An AI-powered platform that helps users analyze and interact with research papers through summaries, Q&amp;A, and advanced document viewing.",
-        "link": "/apps/research-assistant-c36693e0",
+        "link": "https://app.base44.com/apps/research-assistant-c36693e0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d564d0_logo.png",
         "categories": [
             "education",
@@ -2072,7 +2072,7 @@
     {
         "title": "JsonInsight",
         "description": "JsonInsight allows you to effortlessly view, format, and validate JSON data with features like syntax highlighting, collapsible structures, and file upload capabilities for easy analysis.",
-        "link": "/apps/json-insight-c366916d",
+        "link": "https://app.base44.com/apps/json-insight-c366916d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e54185_logo.png",
         "categories": [
             "productivity",
@@ -2085,7 +2085,7 @@
     {
         "title": "CryptoConf",
         "description": "A comprehensive platform for organizing and managing crypto conferences, featuring event listings, user-friendly navigation, and tools for conference organizers to streamline their processes.",
-        "link": "/apps/crypto-conf-c3668d30",
+        "link": "https://app.base44.com/apps/crypto-conf-c3668d30",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0d407f_logo.png",
         "categories": [
             "organizational software",
@@ -2098,7 +2098,7 @@
     {
         "title": "Todo Master",
         "description": "Todo Master is a user-friendly app that helps you manage your tasks effortlessly, prioritize them according to importance, set due dates, and keep track of your progress.",
-        "link": "/apps/todo-master-1e157228",
+        "link": "https://app.base44.com/apps/todo-master-1e157228",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/127d39_logo.png",
         "categories": [
             "productivity",
@@ -2111,7 +2111,7 @@
     {
         "title": "MoodDiary",
         "description": "A bilingual multimedia journaling app that empowers users to capture their thoughts, feelings, and experiences through text and media, enhanced with AI-driven sentiment analysis and topic extraction.",
-        "link": "/apps/mood-diary-4681ed9b",
+        "link": "https://app.base44.com/apps/mood-diary-4681ed9b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a5381d_logo.png",
         "categories": [
             "productivity",
@@ -2124,7 +2124,7 @@
     {
         "title": "MindMap Studio",
         "description": "An interactive mind mapping app that allows users to organize their thoughts and ideas with draggable nodes, tags, and level numbering.",
-        "link": "/apps/mind-map-studio-4681eb8f",
+        "link": "https://app.base44.com/apps/mind-map-studio-4681eb8f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a5ebc6_logo.png",
         "categories": [
             "productivity",
@@ -2137,7 +2137,7 @@
     {
         "title": "IdeaManager",
         "description": "A comprehensive app for managing your ideas, tasks, and collaboration with teams. Effortlessly capture ideas from various sources, categorize them, and collaborate on tasks to turn your ideas into reality.",
-        "link": "/apps/idea-manager-4681eb22",
+        "link": "https://app.base44.com/apps/idea-manager-4681eb22",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/188070_logo.png",
         "categories": [
             "productivity",
@@ -2150,7 +2150,7 @@
     {
         "title": "HydroMap",
         "description": "HydroMap is a water network analysis tool that empowers users to design, manage, and analyze water distribution systems using GIS technology.",
-        "link": "/apps/hydro-map-4681eacb",
+        "link": "https://app.base44.com/apps/hydro-map-4681eacb",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8f23fe_logo.png",
         "categories": [
             "productivity",
@@ -2163,7 +2163,7 @@
     {
         "title": "Module Master",
         "description": "A user-friendly app for creating and managing engaging modules focused on personal development, practice, and goal-setting.",
-        "link": "/apps/module-master-4681ea14",
+        "link": "https://app.base44.com/apps/module-master-4681ea14",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fba1e2_logo.png",
         "categories": [
             "productivity",
@@ -2176,7 +2176,7 @@
     {
         "title": "SocialAI",
         "description": "A social media platform that harnesses the power of AI to enhance user posts, generate images, and foster engaging conversations.",
-        "link": "/apps/social-ai-4681e9e2",
+        "link": "https://app.base44.com/apps/social-ai-4681e9e2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/04aad3_logo.png",
         "categories": [
             "social media",
@@ -2189,7 +2189,7 @@
     {
         "title": "Coffee Shop Manager",
         "description": "An intuitive app to manage your coffee shop, including order management, sales tracking, inventory control, and daily reports.",
-        "link": "/apps/coffee-shop-manager-f9488b3b",
+        "link": "https://app.base44.com/apps/coffee-shop-manager-f9488b3b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d4ea00_logo.png",
         "categories": [
             "productivity",
@@ -2202,7 +2202,7 @@
     {
         "title": "Lito Quizzer",
         "description": "An interactive quiz app for Scrabble players to test and improve their knowledge of WESPA Scrabble Rules through engaging quizzes generated from uploaded documents.",
-        "link": "/apps/lito-quizzer-f948896c",
+        "link": "https://app.base44.com/apps/lito-quizzer-f948896c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/16ce4e_logo.png",
         "categories": [
             "education",
@@ -2215,7 +2215,7 @@
     {
         "title": "Inventory Manager Pro",
         "description": "An intuitive app for efficiently managing your equipment inventory, allowing users to track items by name, category, SKU, quantity, and status, with powerful analytics and easy data entry features.",
-        "link": "/apps/inventory-manager-pro-f94888fb",
+        "link": "https://app.base44.com/apps/inventory-manager-pro-f94888fb",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3d3fcf_logo.png",
         "categories": [
             "productivity",
@@ -2228,7 +2228,7 @@
     {
         "title": "Chat Organizer Pro",
         "description": "A powerful app for managing your chats with features like folders, bulk export, advanced search, and customizable themes. Perfect for personal and professional chat organization, supporting RTL languages too!",
-        "link": "/apps/chat-organizer-pro-f94888c5",
+        "link": "https://app.base44.com/apps/chat-organizer-pro-f94888c5",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ce8e02_logo.png",
         "categories": [
             "productivity",
@@ -2241,7 +2241,7 @@
     {
         "title": "DreamScope",
         "description": "DreamScope helps you record, analyze, and interpret your dreams, offering personalized insights and tracking your dreaming patterns over time.",
-        "link": "/apps/dream-scope-f948889c",
+        "link": "https://app.base44.com/apps/dream-scope-f948889c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ae8b1d_logo.png",
         "categories": [
             "health",
@@ -2254,7 +2254,7 @@
     {
         "title": "AnyKrowd",
         "description": "AnyKrowd is a powerful cashless payments and ticketing platform designed to enhance event management and drive revenue growth for organizers through valuable insights and seamless user experiences.",
-        "link": "/apps/any-krowd-f9488859",
+        "link": "https://app.base44.com/apps/any-krowd-f9488859",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/421c4c_logo.png",
         "categories": [
             "finance",
@@ -2267,7 +2267,7 @@
     {
         "title": "Service Health Monitor",
         "description": "A modern tool for visualizing and monitoring the health of your services, providing insights into their performance and potential issues.",
-        "link": "/apps/service-health-monitor-f94887c5",
+        "link": "https://app.base44.com/apps/service-health-monitor-f94887c5",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/64f6fc_logo.png",
         "categories": [
             "productivity",
@@ -2280,7 +2280,7 @@
     {
         "title": "CodeGenie IDE",
         "description": "A powerful web-based IDE that combines real-time code editing, AI-assisted programming, and live previews to simplify application development for everyone.",
-        "link": "/apps/code-genie-ide-ad722a34",
+        "link": "https://app.base44.com/apps/code-genie-ide-ad722a34",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/359b55_logo.png",
         "categories": [
             "developer tools",
@@ -2293,7 +2293,7 @@
     {
         "title": "Green Empire",
         "description": "Build and manage your own sustainable city, harnessing renewable resources and balancing eco-friendliness with economic growth. Create innovative buildings, research new technologies, and ensure the happiness of your citizens as you strive for a greener future.",
-        "link": "/apps/green-empire-ad722739",
+        "link": "https://app.base44.com/apps/green-empire-ad722739",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1e995b_logo.png",
         "categories": [
             "gaming",
@@ -2306,7 +2306,7 @@
     {
         "title": "10 Minute Challenge",
         "description": "A fun and interactive app for kids to track and complete exciting 10-minute challenges, fostering creativity and engagement through fun activities!",
-        "link": "/apps/10-minute-challenge-eb4a0666",
+        "link": "https://app.base44.com/apps/10-minute-challenge-eb4a0666",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5634e2_logo.png",
         "categories": [
             "education",
@@ -2319,7 +2319,7 @@
     {
         "title": "Prompster",
         "description": "Prompster is your ultimate prompt management platform, designed to help creative professionals and developers store, organize, and analyze prompts across various language models with ease. Transform your workflow and enhance your prompt performance effortlessly.",
-        "link": "/apps/prompster-60fda89d",
+        "link": "https://app.base44.com/apps/prompster-60fda89d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1a1029_logo.png",
         "categories": [
             "productivity",
@@ -2332,7 +2332,7 @@
     {
         "title": "IDE-X",
         "description": "IDE-X is an AI-powered Integrated Development Environment that revolutionizes coding by automating code generation, offering real-time collaboration, and enabling in-browser execution of full-stack applications.",
-        "link": "/apps/ide-x-60fda180",
+        "link": "https://app.base44.com/apps/ide-x-60fda180",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/32f035_logo.png",
         "categories": [
             "developer tools",
@@ -2345,7 +2345,7 @@
     {
         "title": "Intimate Chat",
         "description": "A private messaging app for intimate conversations within a close circle of up to 100 people, allowing users to share messages and images securely and easily.",
-        "link": "/apps/intimate-chat-60fd7b02",
+        "link": "https://app.base44.com/apps/intimate-chat-60fd7b02",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5cfdc5_logo.png",
         "categories": [
             "communication",
@@ -2358,7 +2358,7 @@
     {
         "title": "ShareCare",
         "description": "A community-driven platform for renting household tools and clothing items, promoting a sharing economy and fostering connections among users.",
-        "link": "/apps/share-care-cff36beb",
+        "link": "https://app.base44.com/apps/share-care-cff36beb",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a125ac_logo.png",
         "categories": [
             "e-commerce",
@@ -2371,7 +2371,7 @@
     {
         "title": "MedSchedule",
         "description": "An easy-to-use platform for booking and managing medical appointments online, helping patients connect with healthcare providers seamlessly.",
-        "link": "/apps/med-schedule-fbc4c384",
+        "link": "https://app.base44.com/apps/med-schedule-fbc4c384",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/277620_logo.png",
         "categories": [
             "productivity",
@@ -2384,7 +2384,7 @@
     {
         "title": "TypeMaster",
         "description": "TypeMaster is an interactive touch typing application designed to enhance your typing speed and accuracy through fun and engaging practice sessions. With a visual keyboard, live performance tracking, and various typing texts, it makes learning to type a breeze.",
-        "link": "/apps/type-master-74c65520",
+        "link": "https://app.base44.com/apps/type-master-74c65520",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a76195_logo.png",
         "categories": [
             "education",
@@ -2397,7 +2397,7 @@
     {
         "title": "MacroKeeper",
         "description": "Track your daily macro goals and nutrition through photo recognition and manual entries. Stay healthy and reach your fitness targets with ease!",
-        "link": "/apps/macro-keeper-3b87e8d1",
+        "link": "https://app.base44.com/apps/macro-keeper-3b87e8d1",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/198c47_logo.png",
         "categories": [
             "health",
@@ -2410,7 +2410,7 @@
     {
         "title": "Construction tracking",
         "description": "A comprehensive app for managing and tracking your home construction projects, including task management, progress tracking, budgeting, and expense monitoring.",
-        "link": "/apps/construction-tracking-173b5163",
+        "link": "https://app.base44.com/apps/construction-tracking-173b5163",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/725ae7_logo.png?",
         "categories": [
             "productivity",
@@ -2423,7 +2423,7 @@
     {
         "title": "Markdown Buddy",
         "description": "A user-friendly Markdown to HTML converter that allows you to create, edit, and preview your Markdown documents in real-time. Easily export your formatted HTML or Markdown files with just a click!",
-        "link": "/apps/markdown-buddy-899e0ddb",
+        "link": "https://app.base44.com/apps/markdown-buddy-899e0ddb",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/9da478_logo.png?",
         "categories": [
             "productivity",
@@ -2436,7 +2436,7 @@
     {
         "title": "Platform Adventure",
         "description": "A fun and engaging platformer game where players navigate through various platforms, collect coins, and avoid falling while trying to achieve high scores and stay alive.",
-        "link": "/apps/platform-adventure-df720b01",
+        "link": "https://app.base44.com/apps/platform-adventure-df720b01",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/5aa116_logo.png?",
         "categories": [
             "gaming",
@@ -2449,7 +2449,7 @@
     {
         "title": "\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05ea",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea \u05e2\u05d1\u05d5\u05e8 \u05d4\u05d0\u05e8\u05d2\u05d5\u05df \u05e9\u05dc\u05da. \u05e0\u05d9\u05d4\u05d5\u05dc \u05e7\u05dc, \u05d7\u05db\u05dd \u05d5\u05d9\u05e2\u05d9\u05dc \u05e9\u05dc \u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea \u05e2\u05dd \u05d0\u05e4\u05e9\u05e8\u05d5\u05d9\u05d5\u05ea \u05e0\u05d9\u05ea\u05d5\u05d7 \u05d5\u05d3\u05d9\u05d5\u05d5\u05d7.",
-        "link": "/apps/\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05ea-e0fb7258",
+        "link": "https://app.base44.com/apps/\u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05ea-e0fb7258",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/dcec39_logo.png?",
         "categories": [
             "productivity",
@@ -2462,7 +2462,7 @@
     {
         "title": "ChatEase",
         "description": "A simple and intuitive chat app that allows you to connect with friends and colleagues in real-time. Enjoy smooth messaging, user-friendly design, and seamless communication.",
-        "link": "/apps/chat-ease-fc924abf",
+        "link": "https://app.base44.com/apps/chat-ease-fc924abf",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b233fd_logo.png?",
         "categories": [
             "communication",
@@ -2475,7 +2475,7 @@
     {
         "title": "Base 44 Backlog",
         "description": "A powerful task management tool designed for software development teams to keep track of project tasks, prioritize effectively, and streamline collaboration.",
-        "link": "/apps/base-44-backlog-fc9249fc",
+        "link": "https://app.base44.com/apps/base-44-backlog-fc9249fc",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/f4dfe2_logo.png?",
         "categories": [
             "productivity",
@@ -2488,7 +2488,7 @@
     {
         "title": "Invoice Manager",
         "description": "A powerful app to manage and track your business invoices, enabling seamless uploads, data extraction, and analysis of expenses.",
-        "link": "/apps/invoice-manager-82842d8f",
+        "link": "https://app.base44.com/apps/invoice-manager-82842d8f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/520bcb_logo.png?",
         "categories": [
             "finance",
@@ -2501,7 +2501,7 @@
     {
         "title": "PhotoFlow CRM",
         "description": "A comprehensive CRM for photographers to manage client galleries, bookings, and business expansion through referral tracking. Features include photoshoot scheduling, file delivery, pricing packages, and reminders for seamless client interactions.",
-        "link": "/apps/photo-flow-crm-b18ebb6b",
+        "link": "https://app.base44.com/apps/photo-flow-crm-b18ebb6b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/563ece_logo.png?",
         "categories": [
             "productivity",
@@ -2514,7 +2514,7 @@
     {
         "title": "Color Harmony Generator",
         "description": "A web app that helps designers create harmonious color palettes for their projects, offering various harmony types and export options.",
-        "link": "/apps/color-harmony-generator-ef11946a",
+        "link": "https://app.base44.com/apps/color-harmony-generator-ef11946a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2efce1_logo.png?",
         "categories": [
             "design",
@@ -2527,7 +2527,7 @@
     {
         "title": "MemeMaster",
         "description": "MemeMaster is a fun and creative meme generator that allows users to create engaging and hilarious memes with AI-generated captions and customizable text effects. Upload images or generate them on the spot, personalize your captions, and share your creations with friends!",
-        "link": "/apps/meme-master-97d2ef3b",
+        "link": "https://app.base44.com/apps/meme-master-97d2ef3b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/85d47d_logo.png?",
         "categories": [
             "entertainment",
@@ -2540,7 +2540,7 @@
     {
         "title": "Receipts Organizer",
         "description": "An intuitive app that allows users to easily upload receipts, automatically extract their data, and export it for organization and analysis. Perfect for tracking expenses with categories, notes, and convenient file management.",
-        "link": "/apps/receipts-organizer-9a07b028",
+        "link": "https://app.base44.com/apps/receipts-organizer-9a07b028",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/e93d4c_logo.png?",
         "categories": [
             "productivity",
@@ -2553,7 +2553,7 @@
     {
         "title": "Sudoku Master",
         "description": "A fun and challenging Sudoku game that allows players to solve puzzles of varying difficulty levels. Track your time, make notes, and test your skills against beautifully designed grids. Perfect for both beginners and seasoned Sudoku enthusiasts!",
-        "link": "/apps/sudoku-master-5748214d",
+        "link": "https://app.base44.com/apps/sudoku-master-5748214d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/986ee2_logo.png?",
         "categories": [
             "gaming",
@@ -2566,7 +2566,7 @@
     {
         "title": "Pokemon Gold Adventure",
         "description": "Embark on an exciting adventure in Pokemon Gold Adventure! Capture, train, and battle your favorite Pokemon in a journey filled with wild encounters, leveling up, and building your unique team. Explore and become a master Pokemon Trainer!",
-        "link": "/apps/pokemon-gold-adventure-0b27e05c",
+        "link": "https://app.base44.com/apps/pokemon-gold-adventure-0b27e05c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/9e8d33_logo.png?",
         "categories": [
             "gaming",
@@ -2579,7 +2579,7 @@
     {
         "title": "Fridge to Fork",
         "description": "An app that helps you turn the ingredients in your fridge into delicious recipes. Simply add what you have, and get inspired with creative meal ideas!",
-        "link": "/apps/fridge-to-fork-75ae9218",
+        "link": "https://app.base44.com/apps/fridge-to-fork-75ae9218",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/cc0df9_logo.png?",
         "categories": [
             "consumer apps",
@@ -2592,7 +2592,7 @@
     {
         "title": "Monster Battle Arena",
         "description": "A game where you can choose, train, and battle unique monsters. Level up your characters, strategize in battles, and become the ultimate monster trainer!",
-        "link": "/apps/monster-battle-arena-e2a541b6",
+        "link": "https://app.base44.com/apps/monster-battle-arena-e2a541b6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4640dd_logo.png?",
         "categories": [
             "gaming",
@@ -2605,7 +2605,7 @@
     {
         "title": "CSS Editor Pro",
         "description": "A web app that allows users to edit and manage their CSS files with ease, featuring a live preview and intuitive interface.",
-        "link": "/apps/css-editor-pro-8c230ef0",
+        "link": "https://app.base44.com/apps/css-editor-pro-8c230ef0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a2b4c2_logo.png?",
         "categories": [
             "productivity",
@@ -2618,7 +2618,7 @@
     {
         "title": "CallAnalyzer",
         "description": "CallAnalyzer is a powerful application for sales professionals to upload call recordings, analyze their performance, and gain actionable insights. With speaker separation and AI-driven analysis, users can improve their sales skills by understanding their strengths and areas for improvement. Premium subscribers can customize their analysis and integrate transcriptions with other tools, ensuring they maximize every sales opportunity.",
-        "link": "/apps/call-analyzer-9a2eebc6",
+        "link": "https://app.base44.com/apps/call-analyzer-9a2eebc6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/838905_logo.png?",
         "categories": [
             "productivity",
@@ -2631,7 +2631,7 @@
     {
         "title": "LexisCRM",
         "description": "A comprehensive CRM solution tailored for law firms to manage cases, track billable hours, store legal documents, and streamline legal workflows.",
-        "link": "/apps/lexis-crm-74eca169",
+        "link": "https://app.base44.com/apps/lexis-crm-74eca169",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0759f5_logo.png?",
         "categories": [
             "productivity",
@@ -2644,7 +2644,7 @@
     {
         "title": "TaskFlow",
         "description": "A task management app that helps you organize your projects by creating boards and managing tasks with ease.",
-        "link": "/apps/task-flow-74eca148",
+        "link": "https://app.base44.com/apps/task-flow-74eca148",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/180d30_logo.png?",
         "categories": [
             "productivity",
@@ -2657,7 +2657,7 @@
     {
         "title": "BudgetWise",
         "description": "A user-friendly app that helps you create and manage personal or household budgets with customizable categories, track your expenses, and visualize your financial health.",
-        "link": "/apps/budget-wise-a96d5cc7",
+        "link": "https://app.base44.com/apps/budget-wise-a96d5cc7",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/23a58b_logo.png?",
         "categories": [
             "productivity",
@@ -2670,7 +2670,7 @@
     {
         "title": "RealEstate CRM",
         "description": "A comprehensive CRM designed specifically for real estate agents. Manage property listings, track client interactions, set automatic reminders for viewings and contract renewals, integrate with property portals, and track commissions seamlessly. Gain valuable insights with a user-friendly dashboard and stay organized to maximize your success in the real estate market.",
-        "link": "/apps/real-estate-crm-256b572f",
+        "link": "https://app.base44.com/apps/real-estate-crm-256b572f",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/29d120_logo.png?",
         "categories": [
             "productivity",
@@ -2683,7 +2683,7 @@
     {
         "title": "\u05d4\u05e6\u05e2\u05d5\u05ea \u05de\u05e1\u05dc\u05d5\u05dc \u05dc\u05ea\u05d9\u05db\u05d5\u05df \u05d9\u05d0\u05e1\u05d0",
         "description": "\u05de\u05e6\u05d2\u05ea \u05d0\u05d9\u05e0\u05d8\u05e8\u05d0\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05e2\u05d1\u05e8\u05d9\u05ea \u05dc\u05d4\u05e6\u05d2\u05ea \u05d4\u05e6\u05e2\u05d5\u05ea \u05dc\u05de\u05e1\u05dc\u05d5\u05dc\u05d9 \u05dc\u05d9\u05de\u05d5\u05d3 \u05d7\u05d3\u05e9\u05d9\u05dd \u05d1\u05ea\u05d9\u05db\u05d5\u05df \u05d9\u05d0\u05e1\u05f4\u05d0, \u05d4\u05de\u05ea\u05de\u05e7\u05d3\u05ea \u05d1\u05d1\u05d9\u05e0\u05d4 \u05de\u05dc\u05d0\u05db\u05d5\u05ea\u05d9\u05ea \u05d5\u05d9\u05d6\u05de\u05d5\u05ea \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05ea.",
-        "link": "/apps/\u05d4\u05e6\u05e2\u05d5\u05ea-\u05de\u05e1\u05dc\u05d5\u05dc-\u05dc\u05ea\u05d9\u05db\u05d5\u05df-\u05d9\u05d0\u05e1\u05d0-d0ab49a1",
+        "link": "https://app.base44.com/apps/\u05d4\u05e6\u05e2\u05d5\u05ea-\u05de\u05e1\u05dc\u05d5\u05dc-\u05dc\u05ea\u05d9\u05db\u05d5\u05df-\u05d9\u05d0\u05e1\u05d0-d0ab49a1",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/72dd6f_liverpool-fc.png?",
         "categories": [
             "education",
@@ -2696,7 +2696,7 @@
     {
         "title": "My Todo List",
         "description": "A simple and intuitive todo list app to help you manage and track your tasks efficiently.",
-        "link": "/apps/my-todo-list-b770cf9e",
+        "link": "https://app.base44.com/apps/my-todo-list-b770cf9e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/615e3f_logo.png?",
         "categories": [
             "productivity",
@@ -2709,7 +2709,7 @@
     {
         "title": "FitnessGoals",
         "description": "Personal fitness goal tracking application with AI-powered consultation and milestone management.",
-        "link": "/apps/fitness-goals-13dfe656",
+        "link": "https://app.base44.com/apps/fitness-goals-13dfe656",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0d154f_logo.png?",
         "categories": [
             "health",
@@ -2722,7 +2722,7 @@
     {
         "title": "ExpenseManager",
         "description": "An app to help friends manage and split expenses, track balances, and settle payments.",
-        "link": "/apps/expense-manager-13dfe64b",
+        "link": "https://app.base44.com/apps/expense-manager-13dfe64b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fe8e15_logo.png?",
         "categories": [
             "finance",
@@ -2735,7 +2735,7 @@
     {
         "title": "EmployeeDocumentProcessor",
         "description": "An application for uploading and processing employee documents (employment contracts and Form 101), extracting relevant information, and exporting to Excel.",
-        "link": "/apps/employee-document-processor-201123ab",
+        "link": "https://app.base44.com/apps/employee-document-processor-201123ab",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2e0673_logo.png?",
         "categories": [
             "productivity",
@@ -2748,7 +2748,7 @@
     {
         "title": "FoodBizKnowledge",
         "description": "\u05de\u05e2\u05e8\u05db\u05ea \u05e0\u05d9\u05d4\u05d5\u05dc \u05d9\u05d3\u05e2 \u05dc\u05e2\u05e1\u05e7\u05d9 \u05de\u05d6\u05d5\u05df \u05d4\u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05e0\u05d9\u05d4\u05d5\u05dc \u05de\u05d5\u05e6\u05e8\u05d9\u05dd, \u05e0\u05d4\u05dc\u05d9\u05dd \u05d5\u05ea\u05e4\u05e2\u05d5\u05dc",
-        "link": "/apps/food-biz-knowledge-20112074",
+        "link": "https://app.base44.com/apps/food-biz-knowledge-20112074",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0db4ff_logo.png?",
         "categories": [
             "business apps",
@@ -2761,7 +2761,7 @@
     {
         "title": "NearbyBars",
         "description": "A web application that helps users find bars near their home address, displaying them on a map with relevant information like distance, ratings, and operating hours.",
-        "link": "/apps/nearby-bars-20111f3d",
+        "link": "https://app.base44.com/apps/nearby-bars-20111f3d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/51471c_logo.png?",
         "categories": [
             "entertainment",
@@ -2774,7 +2774,7 @@
     {
         "title": "markdown_converter",
         "description": "A web application that converts Markdown text to HTML with live preview and export functionality.",
-        "link": "/apps/markdown_converter-44f55adc",
+        "link": "https://app.base44.com/apps/markdown_converter-44f55adc",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/9ddda3_logo.png?",
         "categories": [
             "productivity",
@@ -2787,7 +2787,7 @@
     {
         "title": "PortfolioManager",
         "description": "An investment portfolio management application that helps users track their stock investments, analyze portfolio composition, and receive rebalancing recommendations.",
-        "link": "/apps/portfolio-manager-a62e097d",
+        "link": "https://app.base44.com/apps/portfolio-manager-a62e097d",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/23b0a4_logo.png?",
         "categories": [
             "finance",
@@ -2800,7 +2800,7 @@
     {
         "title": "APITestingApp",
         "description": "An application for testing APIs using OpenAPI specifications. Users can configure API endpoints, set global headers, create test scenarios, and execute tests.",
-        "link": "/apps/apitesting-app-db03b1a2",
+        "link": "https://app.base44.com/apps/apitesting-app-db03b1a2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a63ffb_logo.png?",
         "categories": [
             "developer tools",
@@ -2813,7 +2813,7 @@
     {
         "title": "WritingAssistant",
         "description": "AI-powered writing assistant that helps improve writing with customizable suggestions for grammar, style, and clarity.",
-        "link": "/apps/writing-assistant-86f42de9",
+        "link": "https://app.base44.com/apps/writing-assistant-86f42de9",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d89950_logo.png?",
         "categories": [
             "productivity",
@@ -2826,7 +2826,7 @@
     {
         "title": "GoalTracker",
         "description": "A goal tracking application that helps users set, manage, and visualize progress on personal and professional goals.",
-        "link": "/apps/goal-tracker-4c32247e",
+        "link": "https://app.base44.com/apps/goal-tracker-4c32247e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/c51cb6_logo.png?",
         "categories": [
             "productivity",
@@ -2839,7 +2839,7 @@
     {
         "title": "TaskBoard",
         "description": "A task management application that allows users to create boards with task lists, and manage tasks with drag-and-drop functionality.",
-        "link": "/apps/task-board-5bf4683e",
+        "link": "https://app.base44.com/apps/task-board-5bf4683e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ad10fc_logo.png?",
         "categories": [
             "productivity",
@@ -2852,7 +2852,7 @@
     {
         "title": "WebcamFilter",
         "description": "A web application that displays webcam feed with black and white and grain filters applied in real-time.",
-        "link": "/apps/webcam-filter-5bf46835",
+        "link": "https://app.base44.com/apps/webcam-filter-5bf46835",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/db8dcd_logo.png?",
         "categories": [
             "video streaming",
@@ -2865,7 +2865,7 @@
     {
         "title": "SQSMessageSender",
         "description": "An application that analyzes GitHub repositories to discover SQS message patterns and allows sending custom messages to the discovered queues.",
-        "link": "/apps/sqsmessage-sender-f3c21524",
+        "link": "https://app.base44.com/apps/sqsmessage-sender-f3c21524",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a9eb83_logo.png?",
         "categories": [
             "productivity",
@@ -2878,7 +2878,7 @@
     {
         "title": "TodoApp",
         "description": "A todo list application to manage and track tasks with due dates and priorities",
-        "link": "/apps/todo-app-0aa491c8",
+        "link": "https://app.base44.com/apps/todo-app-0aa491c8",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/cfea19_logo.png?",
         "categories": [
             "productivity",
@@ -2891,7 +2891,7 @@
     {
         "title": "ITLeadersNetwork",
         "description": "\u05e4\u05dc\u05d8\u05e4\u05d5\u05e8\u05de\u05d4 \u05dc\u05d7\u05d9\u05d1\u05d5\u05e8 \u05d5\u05d9\u05d9\u05e2\u05d5\u05e5 \u05d1\u05d9\u05df \u05de\u05e0\u05d4\u05dc\u05d9 \u05de\u05e2\u05e8\u05db\u05d5\u05ea \u05de\u05d9\u05d3\u05e2 \u05d5\u05d1\u05db\u05d9\u05e8\u05d9\u05dd \u05d1\u05ea\u05d7\u05d5\u05dd \u05d0\u05d1\u05d8\u05d7\u05ea \u05d4\u05de\u05d9\u05d3\u05e2 \u05d5\u05d4\u05ea\u05d5\u05db\u05e0\u05d4",
-        "link": "/apps/itleaders-network-167a852b",
+        "link": "https://app.base44.com/apps/itleaders-network-167a852b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/86f22a_logo.png?",
         "categories": [
             "business apps",
@@ -2904,7 +2904,7 @@
     {
         "title": "json-parser-builder",
         "description": "A tool for data engineers to create JSON parsers by visually mapping fields and defining transformations between source and target schemas",
-        "link": "/apps/json-parser-builder-3cdea9c0",
+        "link": "https://app.base44.com/apps/json-parser-builder-3cdea9c0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/fd29bf_logo.png?",
         "categories": [
             "developer tools",
@@ -2917,7 +2917,7 @@
     {
         "title": "ParserBuilder",
         "description": "A tool for data engineers to create JSON parsers by visually mapping fields and defining transformations between source and target schemas.",
-        "link": "/apps/parser-builder-830a034c",
+        "link": "https://app.base44.com/apps/parser-builder-830a034c",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/157e8e_logo.png?",
         "categories": [
             "developer tools",
@@ -2930,7 +2930,7 @@
     {
         "title": "ScoutActivities",
         "description": "\u05de\u05e2\u05e8\u05db\u05ea \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05d0\u05d9\u05e9\u05d5\u05e8\u05d9 \u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea \u05d1\u05e6\u05d5\u05e4\u05d9\u05dd",
-        "link": "/apps/scout-activities-37b9d6ac",
+        "link": "https://app.base44.com/apps/scout-activities-37b9d6ac",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/01f749_logo.png?",
         "categories": [
             "organizational software",
@@ -2943,7 +2943,7 @@
     {
         "title": "Tzofim Activity Manager",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea \u05d5\u05d0\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd \u05d1\u05d0\u05e8\u05d2\u05d5\u05df \u05d4\u05e6\u05d5\u05e4\u05d9\u05dd \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05de\u05e8\u05db\u05d6\u05d9\u05dd \u05dc\u05d4\u05d2\u05d9\u05e9 \u05d1\u05e7\u05e9\u05d5\u05ea \u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05de\u05e4\u05e2\u05dc\u05d9\u05dd \u05db\u05d2\u05d5\u05df \u05e1\u05de\u05d9\u05e0\u05e8\u05d9\u05dd, \u05d8\u05d9\u05d5\u05dc\u05d9\u05dd \u05d5\u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea \u05d7\u05d5\u05e5 \u05e9\u05d1\u05d8\u05d9\u05d5\u05ea, \u05e2\u05dd \u05de\u05e2\u05e8\u05db\u05ea \u05d8\u05e4\u05e1\u05d9\u05dd \u05d3\u05d9\u05e0\u05d0\u05de\u05d9\u05d9\u05dd \u05d5\u05de\u05de\u05e9\u05e7 \u05e0\u05d9\u05d4\u05d5\u05dc \u05dc\u05d0\u05d3\u05de\u05d9\u05e0\u05d9\u05dd.",
-        "link": "/apps/tzofim-activity-manager-d5b570db",
+        "link": "https://app.base44.com/apps/tzofim-activity-manager-d5b570db",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ff443b_logo.png?",
         "categories": [
             "organizational software",
@@ -2956,7 +2956,7 @@
     {
         "title": "Artist Studio CRM",
         "description": "A comprehensive CRM platform designed for visual artists to manage their artworks, exhibitions, clients, and sales.",
-        "link": "/apps/artist-studio-crm-7bc6c892",
+        "link": "https://app.base44.com/apps/artist-studio-crm-7bc6c892",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/0509a5_logo.png?",
         "categories": [
             "productivity",
@@ -2969,7 +2969,7 @@
     {
         "title": "JSON Viewer",
         "description": "A web application for analyzing, formatting, and managing JSON data with features like syntax highlighting, validation, and snippet management.",
-        "link": "/apps/json-viewer-ec3ade29",
+        "link": "https://app.base44.com/apps/json-viewer-ec3ade29",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/362c23_logo.png?",
         "categories": [
             "productivity",
@@ -2982,7 +2982,7 @@
     {
         "title": "GitHub SQS Message Analysis and Sender",
         "description": "A GitHub SQS Message Analysis and Sender app that helps developers analyze their repositories for SQS message patterns and send test messages.",
-        "link": "/apps/git-hub-sqs-message-analysis-and-sender-7d519d37",
+        "link": "https://app.base44.com/apps/git-hub-sqs-message-analysis-and-sender-7d519d37",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/86bd00_logo.png?",
         "categories": [
             "developer tools",
@@ -2995,7 +2995,7 @@
     {
         "title": "GitHub Repository Explorer",
         "description": "An application that allows users to view and explore their GitHub repositories, view repository details, and ask questions about their repositories with AI-powered answers. The app provides an intuitive interface for managing and interacting with GitHub repositories.",
-        "link": "/apps/git-hub-repository-explorer-fbb6e807",
+        "link": "https://app.base44.com/apps/git-hub-repository-explorer-fbb6e807",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/324213_logo.png?",
         "categories": [
             "developer tools",
@@ -3008,7 +3008,7 @@
     {
         "title": "TravelItineraryBuilder",
         "description": "A comprehensive travel itinerary builder application that allows users to create and manage detailed travel plans, including attractions, restaurants, transportation, accommodations, budget tracking, and sharing features.",
-        "link": "/apps/travel-itinerary-builder-fe15096e",
+        "link": "https://app.base44.com/apps/travel-itinerary-builder-fe15096e",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/78ca49_logo.png?",
         "categories": [
             "travel",
@@ -3021,7 +3021,7 @@
     {
         "title": "\u05d8\u05d9\u05e0\u05d3\u05e8 \u05dc\u05db\u05dc\u05d1\u05d9\u05dd",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d9\u05ea \u05d4\u05d9\u05db\u05e8\u05d5\u05d9\u05d5\u05ea \u05dc\u05db\u05dc\u05d1\u05d9\u05dd \u05d1\u05e1\u05d2\u05e0\u05d5\u05df \u05d8\u05d9\u05e0\u05d3\u05e8, \u05e9\u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05d1\u05e2\u05dc\u05d9 \u05db\u05dc\u05d1\u05d9\u05dd \u05dc\u05de\u05e6\u05d5\u05d0 \u05d7\u05d1\u05e8\u05d9\u05dd \u05dc\u05db\u05dc\u05d1\u05d9 \u05e9\u05dc\u05d4\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e6\u05e4\u05d9\u05d9\u05d4 \u05d1\u05e4\u05e8\u05d5\u05e4\u05d9\u05dc\u05d9\u05dd \u05d5\u05d4\u05d7\u05dc\u05e7\u05d4 \u05d9\u05de\u05d9\u05e0\u05d4 \u05d0\u05d5 \u05e9\u05de\u05d0\u05dc\u05d4. \u05db\u05d5\u05dc\u05dc\u05ea \u05de\u05e2\u05e8\u05db\u05ea \u05e6&#x27;\u05d0\u05d8 \u05dc\u05d4\u05ea\u05d0\u05de\u05d5\u05ea \u05d4\u05d3\u05d3\u05d9\u05d5\u05ea \u05d5\u05e1\u05d9\u05e0\u05d5\u05df \u05dc\u05e4\u05d9 \u05de\u05d9\u05e7\u05d5\u05dd, \u05d2\u05d9\u05dc \u05d5\u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05db\u05dc\u05d1.",
-        "link": "/apps/\u05d8\u05d9\u05e0\u05d3\u05e8-\u05dc\u05db\u05dc\u05d1\u05d9\u05dd-220a186a",
+        "link": "https://app.base44.com/apps/\u05d8\u05d9\u05e0\u05d3\u05e8-\u05dc\u05db\u05dc\u05d1\u05d9\u05dd-220a186a",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b3bfe3_logo.png?",
         "categories": [
             "social media",
@@ -3034,7 +3034,7 @@
     {
         "title": "TeamFlow",
         "description": "TeamFlow is a comprehensive project management platform designed to enable teams to collaborate efficiently and manage projects effectively. It offers customizable dashboards, versatile task management, real-time team collaboration, powerful automation and reporting tools, and a user-friendly interface that supports teams of various sizes and industries.",
-        "link": "/apps/team-flow-220a1818",
+        "link": "https://app.base44.com/apps/team-flow-220a1818",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/8ec578_logo.png?",
         "categories": [
             "productivity",
@@ -3047,7 +3047,7 @@
     {
         "title": "Blog Manager",
         "description": "A blog management application that helps users manage multiple blogs, create content, and receive AI-powered writing assistance.",
-        "link": "/apps/blog-manager-ee65edd2",
+        "link": "https://app.base44.com/apps/blog-manager-ee65edd2",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/ffaff9_logo.png?",
         "categories": [
             "productivity",
@@ -3060,7 +3060,7 @@
     {
         "title": "LocalPulse",
         "description": "LocalPulse is a location-based social voting platform that enables businesses to create geo-fenced voting rooms within a 200-meter radius, allowing individual users to participate in real-time crowd feedback. Businesses can generate polls about menu items, music, ambiance, and more, while users earn points through engagement and participation. The platform also supports in-app messaging, multi-language support, and comprehensive analytics for businesses.",
-        "link": "/apps/local-pulse-9eff8ba6",
+        "link": "https://app.base44.com/apps/local-pulse-9eff8ba6",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/138015_logo.png?",
         "categories": [
             "social media",
@@ -3073,7 +3073,7 @@
     {
         "title": "Israeli Nonprofits Dashboard",
         "description": "A dashboard application for analyzing data of Israeli nonprofits, featuring interactive charts and visualizations on activity categories, geographic distribution, financial analysis, organization size, timeline of establishments, and compliance indicators. Supports data import via CSV and provides detailed analysis features such as financial trends, geographic heat maps, cause breakdowns, and compliance tracking. The interface is available in Hebrew and English, supporting RTL layout.",
-        "link": "/apps/israeli-nonprofits-dashboard-7e6fc37b",
+        "link": "https://app.base44.com/apps/israeli-nonprofits-dashboard-7e6fc37b",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6e8670_logo.png?",
         "categories": [
             "organizational software",
@@ -3086,7 +3086,7 @@
     {
         "title": "GitHub Repository Analyzer",
         "description": "An app that allows users to input a GitHub repository URL and ask questions about its content, providing detailed answers to help users analyze the repository efficiently.",
-        "link": "/apps/git-hub-repository-analyzer-a381cde0",
+        "link": "https://app.base44.com/apps/git-hub-repository-analyzer-a381cde0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/b7f080_logo.png?",
         "categories": [
             "developer tools",
@@ -3099,7 +3099,7 @@
     {
         "title": "URL Text Analyzer",
         "description": "A web application that analyzes text content from a provided URL for spelling and grammar errors, presenting the results in an organized and user-friendly manner.",
-        "link": "/apps/url-text-analyzer-46106ec9",
+        "link": "https://app.base44.com/apps/url-text-analyzer-46106ec9",
         "image_url": "https://app.base44.com/api/files/2c807b_logo.png",
         "categories": [
             "productivity",
@@ -3112,7 +3112,7 @@
     {
         "title": "SalesforceAnalyticsDashboard",
         "description": "A customizable dashboard application that analyzes Salesforce leads and opportunities data, providing insights through various widgets and visualizations. Users can track lead sources, opportunity stages, and performance metrics through a personalized dashboard interface.",
-        "link": "/apps/salesforce-analytics-dashboard-0b3acf55",
+        "link": "https://app.base44.com/apps/salesforce-analytics-dashboard-0b3acf55",
         "image_url": "https://app.base44.com/api/files/d4eee4_logo.png",
         "categories": [
             "business apps",
@@ -3125,7 +3125,7 @@
     {
         "title": "JSON Viewer and Formatter",
         "description": "A web-based application that allows users to easily view, format, and analyze JSON data. Users can paste or upload raw JSON, see it with syntax highlighting, explore nested structures through an interactive tree view, validate JSON syntax, and copy the formatted JSON for further use.",
-        "link": "/apps/json-viewer-and-formatter-97d4d47c",
+        "link": "https://app.base44.com/apps/json-viewer-and-formatter-97d4d47c",
         "image_url": "https://app.base44.com/api/files/cb7ed5_logo.png",
         "categories": [
             "developer tools",
@@ -3138,7 +3138,7 @@
     {
         "title": "Online JSON Viewer",
         "description": "A user-friendly web application that allows users to view, format, and analyze JSON data with features such as syntax highlighting, collapsible tree structure, real-time validation, and more.",
-        "link": "/apps/online-json-viewer-864dadf8",
+        "link": "https://app.base44.com/apps/online-json-viewer-864dadf8",
         "image_url": "https://app.base44.com/api/files/354107_logo.png",
         "categories": [
             "developer tools",
@@ -3151,7 +3151,7 @@
     {
         "title": "ArtistCRM",
         "description": "A CRM application tailored for visual artists to manage their artworks, exhibitions, and clients efficiently. It allows artists to track their art inventory, plan exhibitions, and maintain detailed client profiles, all through an intuitive and visually appealing interface.",
-        "link": "/apps/artist-crm-dc4fd8e3",
+        "link": "https://app.base44.com/apps/artist-crm-dc4fd8e3",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/3807af_logo.png?",
         "categories": [
             "productivity",
@@ -3164,7 +3164,7 @@
     {
         "title": "UUID Generator",
         "description": "Create a UUID generator - should generate Universally Unique Identifiers (UUIDs) for use in applications. Include options for different UUID versions, batch generation, and the ability to copy or export UUIDs in bulk.",
-        "link": "/apps/uuid-generator-bb2453ef",
+        "link": "https://app.base44.com/apps/uuid-generator-bb2453ef",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/d5cfa1_logo.png?",
         "categories": [
             "developer tools",
@@ -3177,7 +3177,7 @@
     {
         "title": "RegexTester",
         "description": "A web application for testing and refining regular expressions. Users can enter regex patterns, test them against sample strings, and save their own custom regex for future use. Features include real-time evaluation, syntax highlighting, error notifications, and a library of commonly used regex patterns.",
-        "link": "/apps/regex-tester-a4043ea4",
+        "link": "https://app.base44.com/apps/regex-tester-a4043ea4",
         "image_url": "https://app.base44.com/api/files/f9f0b7_logo.png",
         "categories": [
             "developer tools",
@@ -3190,7 +3190,7 @@
     {
         "title": "Todo Manager",
         "description": "A simple and user-friendly todo list application that helps users manage their tasks by separating work and personal tasks, with daily email reminders for due tasks.",
-        "link": "/apps/todo-manager-1d76f39e",
+        "link": "https://app.base44.com/apps/todo-manager-1d76f39e",
         "image_url": "https://app.base44.com/api/files/2efa9a_logo.png",
         "categories": [
             "productivity",
@@ -3203,7 +3203,7 @@
     {
         "title": "Article Management App",
         "description": "The Article Management App allows users to create, edit, and manage a collection of articles. Users can easily navigate through their articles, utilize a rich text editor for content creation, and search or sort articles based on their preferences. The app features a clean and modern interface to enhance the writing and editing experience.",
-        "link": "/apps/article-management-app-4b0665bc",
+        "link": "https://app.base44.com/apps/article-management-app-4b0665bc",
         "image_url": "https://127.0.0.1:8000/api/files/e4e3a5_logo.png",
         "categories": [
             "productivity",
@@ -3216,7 +3216,7 @@
     {
         "title": "Recibo+",
         "description": "Recibo+ es una aplicaci\u00f3n web para administrar gastos personales. Permite a los usuarios cargar im\u00e1genes de recibos y extraer informaci\u00f3n estructurada de ellos, como fecha, monto y categor\u00eda. Los usuarios pueden visualizar sus gastos en listas y gr\u00e1ficos, adem\u00e1s de filtrar y buscar registros f\u00e1cilmente. La interfaz es intuitiva, moderna y responsiva, dise\u00f1ada en espa\u00f1ol.",
-        "link": "/apps/recibo-ff65dad1",
+        "link": "https://app.base44.com/apps/recibo-ff65dad1",
         "image_url": "https://127.0.0.1:8000/api/files/daf7de_logo.png",
         "categories": [
             "productivity",
@@ -3229,7 +3229,7 @@
     {
         "title": "GPU Marketplace",
         "description": "A user-friendly marketplace for buying and selling used GPUs, featuring advanced search and notification capabilities.",
-        "link": "/apps/gpu-marketplace-adbe8bf0",
+        "link": "https://app.base44.com/apps/gpu-marketplace-adbe8bf0",
         "image_url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/06cf41_logo.png?",
         "categories": [
             "e-commerce",
@@ -3242,7 +3242,7 @@
     {
         "title": "Todo List App",
         "description": "A simple todo list application that allows users to manage their tasks by categorizing them as work or personal, with daily email reminders for tasks due that day.",
-        "link": "/apps/todo-list-app-12432d15",
+        "link": "https://app.base44.com/apps/todo-list-app-12432d15",
         "image_url": "https://127.0.0.1:8000/api/files/472689_logo.png",
         "categories": [
             "productivity",
@@ -3255,7 +3255,7 @@
     {
         "title": "SimpleTodoListApp",
         "description": "A simple and user-friendly todo list app that allows users to manage their tasks efficiently, categorized as Work or Personal, with daily email reminders for tasks due.",
-        "link": "/apps/simple-todo-list-app-02499809",
+        "link": "https://app.base44.com/apps/simple-todo-list-app-02499809",
         "image_url": "https://app.base44.com/api/files/16ca74_logo.png",
         "categories": [
             "productivity",
@@ -3268,7 +3268,7 @@
     {
         "title": "AI Powered Search Engine",
         "description": "An AI-powered search engine that provides detailed, contextual responses to user queries by leveraging internet search and an advanced language model. Features include source citations, follow-up questions, deep dive options, and search history for an intuitive and comprehensive search experience.",
-        "link": "/apps/ai-powered-search-engine-6105bad1",
+        "link": "https://app.base44.com/apps/ai-powered-search-engine-6105bad1",
         "image_url": "https://app.base44.com/api/files/6fbd32_logo.png",
         "categories": [
             "AI",
@@ -3281,7 +3281,7 @@
     {
         "title": "MatchIT",
         "description": "MatchIT is a B2B platform that connects technology decision-makers like CISOs, CTOs, and IT managers for peer-to-peer consultations. The platform offers features such as user profiling, AI-powered matching, smart consultations via chat, meeting coordination with manufacturers, a point-based rewards system, subscription and billing management, and community knowledge sharing, all while ensuring data privacy and security.",
-        "link": "/apps/match-it-b97c8d2c",
+        "link": "https://app.base44.com/apps/match-it-b97c8d2c",
         "image_url": "https://app.base44.com/api/files/28039a_logo.png",
         "categories": [
             "business apps",
@@ -3294,7 +3294,7 @@
     {
         "title": "\u05de\u05e2\u05e8\u05db\u05ea \u05d0\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd \u05dc\u05de\u05e4\u05e2\u05dc\u05d9\u05dd \u05dc\u05e6\u05d5\u05e4\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc",
         "description": "\u05de\u05e2\u05e8\u05db\u05ea \u05dc\u05d0\u05d9\u05e9\u05d5\u05e8 \u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea \u05d7\u05d5\u05e5 \u05de\u05d1\u05e0\u05d4 \u05dc\u05e6\u05d5\u05e4\u05d9 \u05d9\u05e9\u05e8\u05d0\u05dc, \u05db\u05d5\u05dc\u05dc \u05d4\u05d2\u05d3\u05e8\u05ea \u05e1\u05d5\u05d2\u05d9 \u05e4\u05e2\u05d9\u05dc\u05d5\u05d9\u05d5\u05ea, \u05d4\u05d2\u05d3\u05e8\u05ea \u05e9\u05d0\u05dc\u05d5\u05ea \u05d0\u05d9\u05e9\u05d5\u05e8, \u05d4\u05d2\u05e9\u05ea \u05d1\u05e7\u05e9\u05d5\u05ea \u05de\u05e2\u05e7\u05d1 \u05d5\u05d0\u05d9\u05e9\u05d5\u05e8 \u05d1\u05e7\u05e9\u05d5\u05ea.",
-        "link": "/apps/\u05de\u05e2\u05e8\u05db\u05ea-\u05d0\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd-\u05dc\u05de\u05e4\u05e2\u05dc\u05d9\u05dd-\u05dc\u05e6\u05d5\u05e4\u05d9-\u05d9\u05e9\u05e8\u05d0\u05dc-cb46c613",
+        "link": "https://app.base44.com/apps/\u05de\u05e2\u05e8\u05db\u05ea-\u05d0\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd-\u05dc\u05de\u05e4\u05e2\u05dc\u05d9\u05dd-\u05dc\u05e6\u05d5\u05e4\u05d9-\u05d9\u05e9\u05e8\u05d0\u05dc-cb46c613",
         "image_url": "https://127.0.0.1:8000/api/files/297612_logo.png",
         "categories": [
             "approval systems",
@@ -3307,7 +3307,7 @@
     {
         "title": "Dog Registry",
         "description": "A simple app that allows users to register dogs along with their owner information.",
-        "link": "/apps/dog-registry-ab68971c",
+        "link": "https://app.base44.com/apps/dog-registry-ab68971c",
         "image_url": "https://127.0.0.1:8000/api/files/8f6280_logo.png",
         "categories": [
             "consumer apps",
@@ -3320,7 +3320,7 @@
     {
         "title": "SimpleTodoApp",
         "description": "A user-friendly todo list application to manage personal and work tasks, with daily email reminders for tasks due that day.",
-        "link": "/apps/simple-todo-app-6d4dc852",
+        "link": "https://app.base44.com/apps/simple-todo-app-6d4dc852",
         "image_url": "https://app.base44.com/api/files/f1c44a_logo.png",
         "categories": [
             "productivity",
@@ -3333,7 +3333,7 @@
     {
         "title": "\u05e9\u05d9\u05d5\u05d5\u05e7\u05d9_\u05e2\u05e1\u05e7",
         "description": "\u05d0\u05ea\u05e8 \u05e9\u05d9\u05d5\u05d5\u05e7\u05d9 \u05dc\u05e2\u05e1\u05e7 \u05d1\u05e9\u05e4\u05d4 \u05d4\u05e2\u05d1\u05e8\u05d9\u05ea \u05e2\u05dd \u05e2\u05d9\u05e6\u05d5\u05d1 \u05d0\u05e1\u05ea\u05d8\u05d9 \u05d1\u05e6\u05d1\u05e2\u05d9 \u05ea\u05db\u05dc\u05ea, \u05d3\u05e3 \u05d1\u05d9\u05ea \u05de\u05d5\u05e9\u05da \u05e2\u05dd \u05de\u05d9\u05d3\u05e2 \u05e2\u05dc \u05d4\u05e2\u05e1\u05e7, \u05d8\u05d5\u05e4\u05e1 \u05d4\u05e8\u05e9\u05de\u05d4 \u05dc\u05dc\u05e7\u05d5\u05d7\u05d5\u05ea, \u05d0\u05d6\u05d5\u05e8 \u05d0\u05d9\u05e9\u05d9 \u05dc\u05dc\u05e7\u05d5\u05d7\u05d5\u05ea \u05e8\u05e9\u05d5\u05de\u05d9\u05dd, \u05d2\u05dc\u05e8\u05d9\u05d9\u05ea \u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d0\u05d5 \u05de\u05d5\u05e6\u05e8\u05d9\u05dd, \u05d5\u05d3\u05e3 \u05d9\u05e6\u05d9\u05e8\u05ea \u05e7\u05e9\u05e8. \u05d4\u05d0\u05ea\u05e8 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05d9\u05d3\u05d9\u05d3\u05d5\u05ea\u05d9 \u05dc\u05de\u05e9\u05ea\u05de\u05e9, \u05de\u05d5\u05ea\u05d0\u05dd \u05dc\u05de\u05d5\u05d1\u05d9\u05d9\u05dc, \u05d5\u05dc\u05e1\u05e4\u05e7 \u05d7\u05d5\u05d5\u05d9\u05d9\u05ea \u05de\u05e9\u05ea\u05de\u05e9 \u05d7\u05dc\u05e7\u05d4 \u05e2\u05dd \u05d4\u05e6\u05d2\u05ea \u05de\u05d9\u05d3\u05e2 \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d1\u05e8\u05d5\u05e8\u05d4 \u05d5\u05de\u05d5\u05e9\u05db\u05ea \u05ea\u05d5\u05da \u05e9\u05de\u05d9\u05e8\u05d4 \u05e2\u05dc \u05e6\u05d1\u05e2\u05d9 \u05d4\u05de\u05d5\u05ea\u05d2 \u05dc\u05d0\u05d5\u05e8\u05da \u05db\u05dc \u05d4\u05d0\u05ea\u05e8.",
-        "link": "/apps/\u05e9\u05d9\u05d5\u05d5\u05e7\u05d9_\u05e2\u05e1\u05e7-1768e0dc",
+        "link": "https://app.base44.com/apps/\u05e9\u05d9\u05d5\u05d5\u05e7\u05d9_\u05e2\u05e1\u05e7-1768e0dc",
         "image_url": "https://app.base44.com/api/files/f2fad8_logo.png",
         "categories": [
             "business apps",
@@ -3346,7 +3346,7 @@
     {
         "title": "TheList",
         "description": "A web application for connecting marketing service providers with clients.",
-        "link": "/apps/the-list-f53ce3f3",
+        "link": "https://app.base44.com/apps/the-list-f53ce3f3",
         "image_url": "https://app.base44.com/api/files/d66a57_logo.png",
         "categories": [
             "business apps",
@@ -3359,7 +3359,7 @@
     {
         "title": "\u05e0\u05d9\u05d4\u05d5\u05dc \u05d4\u05d5\u05e6\u05d0\u05d5\u05ea \u05dc\u05d1\u05d9\u05ea \u05e1\u05e4\u05e8 \u05dc\u05de\u05e7\u05e2\u05e7\u05e2\u05d9\u05dd",
         "description": "\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05d4\u05d5\u05e6\u05d0\u05d5\u05ea \u05e2\u05d1\u05d5\u05e8 \u05d1\u05d9\u05ea \u05e1\u05e4\u05e8 \u05dc\u05de\u05e7\u05e2\u05e7\u05e2\u05d9\u05dd, \u05d4\u05de\u05d0\u05e4\u05e9\u05e8\u05ea \u05dc\u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05dc\u05d4\u05e2\u05dc\u05d5\u05ea \u05d7\u05e9\u05d1\u05d5\u05e0\u05d9\u05d5\u05ea, \u05dc\u05e0\u05ea\u05d7 \u05d0\u05d5\u05ea\u05df, \u05dc\u05d4\u05d6\u05d9\u05df \u05d4\u05d5\u05e6\u05d0\u05d5\u05ea \u05d9\u05d3\u05e0\u05d9\u05d5\u05ea \u05d5\u05dc\u05e6\u05e4\u05d5\u05ea \u05d1\u05e1\u05d9\u05db\u05d5\u05dd \u05db\u05d5\u05dc\u05dc \u05e9\u05dc \u05d4\u05d4\u05d5\u05e6\u05d0\u05d5\u05ea.",
-        "link": "/apps/\u05e0\u05d9\u05d4\u05d5\u05dc-\u05d4\u05d5\u05e6\u05d0\u05d5\u05ea-\u05dc\u05d1\u05d9\u05ea-\u05e1\u05e4\u05e8-\u05dc\u05de\u05e7\u05e2\u05e7\u05e2\u05d9\u05dd-556e40ce",
+        "link": "https://app.base44.com/apps/\u05e0\u05d9\u05d4\u05d5\u05dc-\u05d4\u05d5\u05e6\u05d0\u05d5\u05ea-\u05dc\u05d1\u05d9\u05ea-\u05e1\u05e4\u05e8-\u05dc\u05de\u05e7\u05e2\u05e7\u05e2\u05d9\u05dd-556e40ce",
         "image_url": "https://127.0.0.1:8000/api/files/1a58a6_logo.png",
         "categories": [
             "productivity",
@@ -3372,7 +3372,7 @@
     {
         "title": "AI_Powered_Search",
         "description": "An AI-powered search engine that answers user questions with detailed, contextual responses sourced from the internet.",
-        "link": "/apps/ai_powered_search-ec4668c1",
+        "link": "https://app.base44.com/apps/ai_powered_search-ec4668c1",
         "image_url": "https://app.base44.com/api/files/2a1b66_logo.png",
         "categories": [
             "AI",
@@ -3385,7 +3385,7 @@
     {
         "title": "LLMSearchEngine",
         "description": "A search engine application powered by a language model that answers user queries by searching the internet, providing detailed and contextual responses with source citations, follow-up questions, and the ability to explore topics in depth.",
-        "link": "/apps/llmsearch-engine-ec4668ae",
+        "link": "https://app.base44.com/apps/llmsearch-engine-ec4668ae",
         "image_url": "https://app.base44.com/api/files/d95ca8_logo.png",
         "categories": [
             "productivity",
@@ -3398,7 +3398,7 @@
     {
         "title": "Israeli Diaspora Connect",
         "description": "\u05e4\u05dc\u05d8\u05e4\u05d5\u05e8\u05de\u05d4 \u05d7\u05d1\u05e8\u05ea\u05d9\u05ea \u05dc\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05dd \u05d4\u05d7\u05d9\u05d9\u05dd \u05d1\u05d7\u05d5\u05f4\u05dc \u05dc\u05d4\u05ea\u05d7\u05d1\u05e8, \u05dc\u05e9\u05ea\u05e3 \u05d7\u05d5\u05d5\u05d9\u05d5\u05ea \u05d5\u05dc\u05d4\u05e9\u05ea\u05ea\u05e3 \u05d1\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05de\u05e7\u05d5\u05de\u05d9\u05d9\u05dd \u05d5\u05d5\u05d9\u05e8\u05d8\u05d5\u05d0\u05dc\u05d9\u05d9\u05dd. \u05d4\u05e2\u05d9\u05e6\u05d5\u05d1 \u05d9\u05d3\u05d9\u05d3\u05d5\u05ea\u05d9 \u05dc\u05de\u05e9\u05ea\u05de\u05e9 \u05d5\u05d0\u05d9\u05e0\u05d8\u05d5\u05d0\u05d9\u05d8\u05d9\u05d1\u05d9, \u05e2\u05dd \u05de\u05de\u05e9\u05e7 \u05de\u05d5\u05d3\u05e8\u05e0\u05d9 \u05d5\u05e0\u05e7\u05d9 \u05d5\u05e6\u05d1\u05e2\u05d9 \u05db\u05d7\u05d5\u05dc \u05d5\u05dc\u05d1\u05df \u05d4\u05de\u05e9\u05dc\u05d1\u05d9\u05dd \u05d0\u05dc\u05de\u05e0\u05d8\u05d9\u05dd \u05de\u05d3\u05d2\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc.",
-        "link": "/apps/israeli-diaspora-connect-ec466877",
+        "link": "https://app.base44.com/apps/israeli-diaspora-connect-ec466877",
         "image_url": "https://app.base44.com/api/files/db6d8861525942eb96631a1d7429c09flogo.png",
         "categories": [
             "social media",
@@ -3411,7 +3411,7 @@
     {
         "title": "Tattoo Shop Lead Manager",
         "description": "A user-friendly lead management application for small tattoo shops to manage customer information, tattoo requests, and appointment scheduling.",
-        "link": "/apps/tattoo-shop-lead-manager-fd76d0f6",
+        "link": "https://app.base44.com/apps/tattoo-shop-lead-manager-fd76d0f6",
         "image_url": "https://app.base44.com/api/files/8fb695a1d08342b28b79ffba93d14295logo.png",
         "categories": [
             "business apps",
@@ -3424,7 +3424,7 @@
     {
         "title": "HebrewLeadManager",
         "description": "A Hebrew lead management system that allows users to manage, prioritize, and track leads efficiently with features including comprehensive lead information management, categorization, status tracking, note and call log additions, and detailed reporting.",
-        "link": "/apps/hebrew-lead-manager-fd76d0e6",
+        "link": "https://app.base44.com/apps/hebrew-lead-manager-fd76d0e6",
         "image_url": "https://app.base44.com/api/files/7c50d69f45294c65bf2795a856489d4dlogo.png",
         "categories": [
             "productivity",
