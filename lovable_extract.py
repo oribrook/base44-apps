@@ -1,7 +1,42 @@
 import re
 import urllib.parse
 
+
+import re
+import json
+
 def parse_lovable_projects(html_string):
+    # Regular expression patterns to extract information
+    pattern = r'<a href="(/projects/[^"]+)">.+?<p class="[^"]*">([^<]+)</p>.+?<p class="[^"]*">by</p><p[^>]*>([^<]+)</p>.+?src="/_next/image\?url=([^"&]+)&amp;w=\d+&amp;q=\d+"'
+    
+    # Find all matches in the HTML string
+    matches = re.findall(pattern, html_string, re.DOTALL)
+    
+    result = []
+    for match in matches:
+        project_path, title, creator, image_url = match
+        
+        # Decode the URL-encoded image URL
+        image_url = image_url.replace('&amp;', '&')
+        
+        # Create the item dictionary
+        item = {
+            "platform": "lovable",
+            "title": title.strip(),
+            "description": f"by {creator.strip()}",
+            "link": f"https://lovable.dev{project_path}",
+            "image_url": f"https://lovable.dev/_next/image?url={image_url}&w=3840&q=75",
+            "categories": [],
+            "creator": creator.strip(),
+            "creation_date": None
+        }
+        
+        result.append(item)
+    
+    return result
+
+
+def _parse_lovable_projects(html_string):
     base_url = "https://lovable.dev"
     project_pattern = re.findall(r'<a href="(/projects/[^"]+)".*?<p[^>]*>(.*?)</p>.*?<p[^>]*>by</p>\s*<p[^>]*>(.*?)</p>.*?(?:<img.*?src="(/_next/image\?url=[^"]+)")?', html_string, re.DOTALL)
     
@@ -65,7 +100,7 @@ import json
 #     data += new_data
 #     print(data)
 
-with open("./newData.json", 'w') as F:
+with open("./newData1.json", 'w') as F:
     json.dump(res, F)
 
 
