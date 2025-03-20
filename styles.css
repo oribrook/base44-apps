@@ -624,3 +624,26 @@ body.light-mode .dark-icon {
         justify-content: center;
     }
 }
+
+.platforms-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.platform-checkbox {
+    display: flex;
+    align-items: center;
+    background-color: #1e293b;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+.platform-checkbox input {
+    margin-right: 6px;
+}
+
+.light-mode .platform-checkbox {
+    background-color: #e2e8f0;
+}

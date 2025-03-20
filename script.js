@@ -4,6 +4,8 @@ let filteredApps = [];
 let currentPage = 1;
 const itemsPerPage = 10;
 let activeCategories = new Set();
+let allPlatforms = new Set();
+let activePlatforms = new Set();
 
 // DOM elements
 const appsGrid = document.getElementById('apps-grid');
@@ -11,6 +13,106 @@ const paginationContainer = document.getElementById('pagination');
 const searchInput = document.getElementById('search-input');
 const categoryFilter = document.getElementById('category-filter');
 const selectedCategoriesContainer = document.getElementById('selected-categories');
+
+
+// // Extract unique platforms and render checkboxes
+// function extractPlatforms() {
+//     const platformsContainer = document.getElementById('platforms-container');
+    
+//     // Extract unique platforms
+//     allApps.forEach(app => {
+//         if (app.platform) {
+//             allPlatforms.add(app.platform);
+//         }
+//     });
+    
+//     // Sort platforms alphabetically
+//     const sortedPlatforms = Array.from(allPlatforms).sort();
+    
+//     // Initially set all platforms as active
+//     activePlatforms = new Set(sortedPlatforms);
+    
+//     // Create checkbox for each platform
+//     sortedPlatforms.forEach(platform => {
+//         const checkbox = document.createElement('div');
+//         checkbox.className = 'platform-checkbox';
+//         checkbox.innerHTML = `
+//             <input type="checkbox" id="platform-${platform}" value="${platform}" checked>
+//             <label for="platform-${platform}">${platform}</label>
+//         `;
+//         platformsContainer.appendChild(checkbox);
+        
+//         // Add event listener
+//         checkbox.querySelector('input').addEventListener('change', (e) => {
+//             if (e.target.checked) {
+//                 activePlatforms.add(platform);
+//             } else {
+//                 activePlatforms.delete(platform);
+//             }
+//             filterApps();
+//         });
+//     });
+// }
+
+// Extract unique platforms and render checkboxes
+function extractPlatforms() {
+    const platformsContainer = document.getElementById('platforms-container');
+    allPlatforms.clear(); // Clear existing platforms
+    
+    // Extract unique platforms with normalization
+    allApps.forEach(app => {
+        if (app.platform) {
+            // Normalize platform string (trim and convert to lowercase)
+            const normalizedPlatform = app.platform.trim().toLowerCase();
+            // Store both original and normalized version
+            allPlatforms.add({
+                original: app.platform,
+                normalized: normalizedPlatform
+            });
+        }
+    });
+    
+    // Convert to array and remove duplicates based on normalized value
+    const uniquePlatforms = Array.from(allPlatforms);
+    const platformMap = new Map();
+    
+    // Keep only one instance of each platform (first occurrence)
+    uniquePlatforms.forEach(platform => {
+        if (!platformMap.has(platform.normalized)) {
+            platformMap.set(platform.normalized, platform.original);
+        }
+    });
+    
+    // Get final list of unique platforms
+    const finalPlatforms = Array.from(platformMap.values()).sort();
+    
+    // Initially set all platforms as active
+    activePlatforms = new Set(finalPlatforms);
+    
+    // Clear existing platform checkboxes
+    platformsContainer.innerHTML = '';
+    
+    // Create checkbox for each platform
+    finalPlatforms.forEach(platform => {
+        const checkbox = document.createElement('div');
+        checkbox.className = 'platform-checkbox';
+        checkbox.innerHTML = `
+            <input type="checkbox" id="platform-${platform}" value="${platform}" checked>
+            <label for="platform-${platform}">${platform}</label>
+        `;
+        platformsContainer.appendChild(checkbox);
+        
+        // Add event listener
+        checkbox.querySelector('input').addEventListener('change', (e) => {
+            if (e.target.checked) {
+                activePlatforms.add(platform);
+            } else {
+                activePlatforms.delete(platform);
+            }
+            filterApps();
+        });
+    });
+}
 
 // Fetch the apps data
 async function fetchApps() {
@@ -24,6 +126,7 @@ async function fetchApps() {
         
         // Initialize the app
         extractCategories();
+        extractPlatforms(); 
         renderApps();
     } catch (error) {
         console.error('Error fetching data:', error);
@@ -95,9 +198,42 @@ function renderSelectedCategories() {
     });
 }
 
-// Filter apps based on search input and selected categories
+
+// // Filter apps based on search input, selected categories, and platforms
+// function filterApps() {
+//     const searchTerm = searchInput.value.toLowerCase();
+    
+//     filteredApps = allApps.filter(app => {
+//         // Check if app matches search term
+//         const titleMatch = app.title && app.title.toLowerCase().includes(searchTerm);
+//         const descMatch = app.description && app.description.toLowerCase().includes(searchTerm);
+//         const searchMatch = titleMatch || descMatch;
+        
+//         // Check if app matches selected categories
+//         let categoryMatch = true;
+//         if (activeCategories.size > 0) {
+//             categoryMatch = app.categories && app.categories.some(category => 
+//                 activeCategories.has(category)
+//             );
+//         }
+        
+//         // Check if app matches selected platforms
+//         const platformMatch = !app.platform || activePlatforms.has(app.platform);
+        
+//         return searchMatch && categoryMatch && platformMatch;
+//     });
+    
+//     currentPage = 1;
+//     renderApps();
+// }
+
+// Filter apps based on search input, selected categories, and platforms
 function filterApps() {
     const searchTerm = searchInput.value.toLowerCase();
+    
+    // Check if only "lovable" platform is selected
+    const onlyLovableSelected = activePlatforms.size === 1 && 
+        activePlatforms.has("lovable");
     
     filteredApps = allApps.filter(app => {
         // Check if app matches search term
@@ -106,14 +242,18 @@ function filterApps() {
         const searchMatch = titleMatch || descMatch;
         
         // Check if app matches selected categories
+        // Skip category filtering if only "lovable" platform is selected
         let categoryMatch = true;
-        if (activeCategories.size > 0) {
+        if (!onlyLovableSelected && activeCategories.size > 0) {
             categoryMatch = app.categories && app.categories.some(category => 
                 activeCategories.has(category)
             );
         }
         
-        return searchMatch && categoryMatch;
+        // Check if app matches selected platforms
+        const platformMatch = !app.platform || activePlatforms.has(app.platform);
+        
+        return searchMatch && categoryMatch && platformMatch;
     });
     
     currentPage = 1;
