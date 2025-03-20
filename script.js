@@ -15,7 +15,7 @@ const selectedCategoriesContainer = document.getElementById('selected-categories
 // Fetch the apps data
 async function fetchApps() {
     try {
-        const response = await fetch('data.json');
+        const response = await fetch('newData.json');
         if (!response.ok) {
             throw new Error('Failed to fetch data');
         }
